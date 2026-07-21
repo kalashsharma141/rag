@@ -19,6 +19,10 @@ api/
 # Jupyter / notebook artifacts
 .ipynb_checkpoints/
 
+# Generated output files
+Main/QNAresults.txt
+Main/testData.txt
+
 # Editor / OS files
 .idea/
 .vscode/
