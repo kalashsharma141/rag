@@ -32,3 +32,6 @@ Thumbs.db
 # Logs and databases
 *.log
 *.sqlite3
+
+Main/testData.json
+Main/testData.txt

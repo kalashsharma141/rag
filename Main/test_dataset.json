@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "question": "What is the name of the boy in the story?",
+        "answer": "Tom Hansen"
+    },
+    {
+        "id": 2,
+        "question": "Where is Tom from?",
+        "answer": "Margate, New Jersey"
+    },
+    {
+        "id": 3,
+        "question": "What is the name of the girl in the story?",
+        "answer": "Summer Finn"
+    },
+    {
+        "id": 4,
+        "question": "Where is Summer from?",
+        "answer": "Shinnecock, Michigan"
+    },
+    {
+        "id": 5,
+        "question": "What does Tom believe in?",
+        "answer": "True love"
+    },
+    {
+        "id": 6,
+        "question": "What is Summer's attitude towards love?",
+        "answer": "She does not believe in it"
+    },
+    {
+        "id": 7,
+        "question": "What is Tom's occupation?",
+        "answer": "He works at a greeting card company"
+    },
+    {
+        "id": 8,
+        "question": "What is Summer's job?",
+        "answer": "She is an assistant to Mr. Vance"
+    },
+    {
+        "id": 9,
+        "question": "How does Tom meet Summer?",
+        "answer": "At work, when Summer is introduced as the new assistant"
+    },
+    {
+        "id": 10,
+        "question": "What is the date when Tom meets Summer?",
+        "answer": "June 8th"
+    },
+    {
+        "id": 11,
+        "question": "What is the name of Tom's half-sister?",
+        "answer": "Rachel"
+    },
+    {
+        "id": 12,
+        "question": "Why does Summer want to stop seeing Tom?",
+        "answer": "She thinks their relationship is not normal and they only argue"
+    },
+    {
+        "id": 13,
+        "question": "What is the name of the song quoted by Summer in her high school yearbook?",
+        "answer": "A song by the Scottish band Belle & Sebastian"
+    },
+    {
+        "id": 14,
+        "question": "What is the name of the album by Belle & Sebastian that experiences a spike in sales in Michigan?",
+        "answer": "The Boy With the Arab Strap"
+    },
+    {
+        "id": 15,
+        "question": "Where does Summer work during her sophomore year of college?",
+        "answer": "At Two Cents Plain, an old timey campus creamery"
+    },
+    {
+        "id": 16,
+        "question": "What is the percentage increase in revenue at Two Cents Plain when Summer works there?",
+        "answer": "212%"
+    },
+    {
+        "id": 17,
+        "question": "What is the average rate below market value that Summer pays for her apartments?",
+        "answer": "9.2%"
+    },
+    {
+        "id": 18,
+        "question": "How many double-takes does Summer average on her commute to work?",
+        "answer": "18.4"
+    },
+    {
+        "id": 19,
+        "question": "What is the name of the holiday idea presented by McKenzie?",
+        "answer": "Other Mother's Day"
+    },
+    {
+        "id": 20,
+        "question": "What is the name of the head of the department where Tom works?",
+        "answer": "Vance"
+    },
+    {
+        "id": 21,
+        "question": "What is Tom's initial impression of Summer?",
+        "answer": "Tom thinks Summer is pretty, but also believes she might be an 'uppity, better than everyone, superskank' based on what McKenzie tells him."
+    },
+    {
+        "id": 22,
+        "question": "What music does Summer like?",
+        "answer": "Summer likes The Smiths."
+    },
+    {
+        "id": 23,
+        "question": "What is Tom's occupation?",
+        "answer": "Tom works as a greeting card writer."
+    },
+    {
+        "id": 24,
+        "question": "What did Tom study to be?",
+        "answer": "Tom studied to be an architect."
+    },
+    {
+        "id": 25,
+        "question": "Why did Tom give up on his architecture dreams?",
+        "answer": "Tom gave up on his architecture dreams because it 'didn't work out' and he needed a job."
+    },
+    {
+        "id": 26,
+        "question": "What is the name of the song Tom hears when he thinks of Summer?",
+        "answer": "The screenplay does not specify the name of the song, only that it is an 'over-the-top romantic song'."
+    },
+    {
+        "id": 27,
+        "question": "What does Tom love about Summer?",
+        "answer": "Tom loves many things about Summer, including her smile, hair, knees, eyes, and the sound of her laugh."
+    },
+    {
+        "id": 28,
+        "question": "What is Summer's attitude towards relationships?",
+        "answer": "Summer does not want to be in a relationship, preferring to be free and independent."
+    },
+    {
+        "id": 29,
+        "question": "Why does Tom go to the karaoke bar?",
+        "answer": "Tom goes to the karaoke bar because the whole office is going, and he wants to see Summer."
+    },
+    {
+        "id": 30,
+        "question": "What song does Summer sing at the karaoke bar?",
+        "answer": "The screenplay does not specify the name of the song Summer sings, only that it is 'something exceedingly awesome'."
+    },
+    {
+        "id": 31,
+        "question": "What is the name of Summer's cat?",
+        "answer": "Summer's cat is named Bruce, after Springsteen."
+    },
+    {
+        "id": 32,
+        "question": "Why does Tom get disappointed at the karaoke bar?",
+        "answer": "Tom gets disappointed when Summer notices him staring at her, but does not come over to talk to him."
+    },
+    {
+        "id": 33,
+        "question": "What does McKenzie think about Summer's attitude towards relationships?",
+        "answer": "McKenzie thinks Summer is 'a dude' because of her attitude towards relationships."
+    },
+    {
+        "id": 34,
+        "question": "What does Tom believe in?",
+        "answer": "Tom believes in true love."
+    },
+    {
+        "id": 35,
+        "question": "What is Summer's response to Tom's question about falling in love?",
+        "answer": "Summer laughs and questions the concept of love, saying she has never seen it in her past relationships."
+    },
+    {
+        "id": 36,
+        "question": "What is the occasion for the office party?",
+        "answer": "The office party is for Millie's engagement."
+    },
+    {
+        "id": 37,
+        "question": "What is Tom's relationship like with his friend Paul?",
+        "answer": "Tom and Paul appear to be close friends, with Paul being supportive but also honest with Tom about his feelings for Summer."
+    },
+    {
+        "id": 38,
+        "question": "What is the name of the cafe where Tom and his friends hang out?",
+        "answer": "The cafe is called the Pacman Cafe."
+    },
+    {
+        "id": 39,
+        "question": "What is Tom's attitude towards being alone?",
+        "answer": "Tom thinks that loneliness is 'underrated' and that he is 'good on his own, comfortable, un-hassled'."
+    },
+    {
+        "id": 40,
+        "question": "What is the turning point for Tom's feelings towards Summer?",
+        "answer": "The turning point for Tom's feelings towards Summer is when she says 'it was good' in response to his question about her weekend, which he interprets as a sign that she is not interested in him."
+    },
+    {
+        "id": 41,
+        "question": "What is Summer's view on love?",
+        "answer": "Summer believes that love is a fantasy and doesn't exist."
+    },
+    {
+        "id": 42,
+        "question": "What does Tom think about Summer's view on love?",
+        "answer": "Tom thinks Summer is wrong and believes in love."
+    },
+    {
+        "id": 43,
+        "question": "What song can't Tom and Summer remember?",
+        "answer": "The 'Knight Rider' theme song."
+    },
+    {
+        "id": 44,
+        "question": "What is McKenzie's behavior like when he's drunk?",
+        "answer": "McKenzie becomes aggressive and starts singing loudly when he's drunk."
+    },
+    {
+        "id": 45,
+        "question": "What does McKenzie reveal to Summer about Tom's feelings?",
+        "answer": "McKenzie tells Summer that Tom likes her, not just as a friend."
+    },
+    {
+        "id": 46,
+        "question": "How does Tom respond when Summer asks if he likes her?",
+        "answer": "Tom says he likes her, but only as a friend, to hide his true feelings."
+    },
+    {
+        "id": 47,
+        "question": "What is Summer looking for at the IKEA store?",
+        "answer": "Summer is looking for trivets."
+    },
+    {
+        "id": 48,
+        "question": "What is the nature of Tom and Summer's relationship, according to Summer?",
+        "answer": "Summer wants to keep their relationship casual, with no pressure, labels, or obligations."
+    },
+    {
+        "id": 49,
+        "question": "How does Tom feel about Summer's desire for a casual relationship?",
+        "answer": "Tom is visibly disappointed but tries to hide it."
+    },
+    {
+        "id": 50,
+        "question": "What song is playing when Tom and Summer are together in Tom's bedroom?",
+        "answer": "'You Make My Dreams Come True' by Hall and Oates."
+    },
+    {
+        "id": 51,
+        "question": "How does Tom feel the morning after being with Summer?",
+        "answer": "Tom feels great, like he's on top of the world, and is celebrated by everyone around him."
+    },
+    {
+        "id": 52,
+        "question": "What happens when Tom walks down the street the morning after being with Summer?",
+        "answer": "People wave, clap, and give him thumbs up, and a parade forms behind him."
+    },
+    {
+        "id": 53,
+        "question": "What is Tom's state like when he arrives at the office?",
+        "answer": "Tom looks unkept, unshaven, and unwell."
+    },
+    {
+        "id": 54,
+        "question": "What is Tom waiting for at the office?",
+        "answer": "Tom is waiting for a message from Summer."
+    },
+    {
+        "id": 55,
+        "question": "What does McKenzie suggest Tom should do to get over Summer?",
+        "answer": "McKenzie suggests Tom should write a book, quoting Henry Miller."
+    },
+    {
+        "id": 56,
+        "question": "What is Tom's occupation?",
+        "answer": "Tom's occupation is not explicitly stated, but he works in an office."
+    },
+    {
+        "id": 57,
+        "question": "What is the name of the song Summer is humming?",
+        "answer": "The song Summer is humming is not specified."
+    },
+    {
+        "id": 58,
+        "question": "What is the advice Summer gives Tom?",
+        "answer": "Summer advises Tom that she's not looking for anything serious."
+    },
+    {
+        "id": 59,
+        "question": "What is the event that occurs at the karaoke bar?",
+        "answer": "Tom sings in front of the crowd and Summer watches him, smiling."
+    },
+    {
+        "id": 60,
+        "question": "What is Paul's occupation?",
+        "answer": "Paul is a doctor."
+    },
+    {
+        "id": 61,
+        "question": "What song is Summer humming in the office copy room?",
+        "answer": "The 'Knight Rider' Theme song."
+    },
+    {
+        "id": 62,
+        "question": "What does Tom do for a living?",
+        "answer": "Tom writes greeting cards."
+    },
+    {
+        "id": 63,
+        "question": "What is Summer's opinion on the avant-garde surrealist painting of two dogs?",
+        "answer": "She finds it complex."
+    },
+    {
+        "id": 64,
+        "question": "What movie do Tom and Summer go see together?",
+        "answer": "The movie is titled 'Part Vampire. Part Giant.'"
+    },
+    {
+        "id": 65,
+        "question": "Why does Tom like the Downtown LA area?",
+        "answer": "Tom likes the area because of its history and hidden beauty, despite most people thinking it has no history and is not scenic."
+    },
+    {
+        "id": 66,
+        "question": "What is Summer's favorite music artist?",
+        "answer": "Summer loves Ringo."
+    },
+    {
+        "id": 67,
+        "question": "What does Tom draw on Summer's arm?",
+        "answer": "Tom draws a sketch of his idea for integrating buildings and maximizing light capacity in the city."
+    },
+    {
+        "id": 68,
+        "question": "What is the significance of Tom being in Summer's apartment?",
+        "answer": "It's significant because few people have been invited into her personal space, and it marks a milestone in their relationship."
+    },
+    {
+        "id": 69,
+        "question": "What is Summer's dream about?",
+        "answer": "Summer dreams about floating, starting from running really fast, then climbing higher and higher, feeling free, but ultimately realizing she's alone."
+    },
+    {
+        "id": 70,
+        "question": "Why does Tom want to ask Summer about their relationship?",
+        "answer": "Tom wants to ask Summer about their relationship because he's unsure where they stand and is afraid of getting an answer he doesn't want."
+    },
+    {
+        "id": 71,
+        "question": "What advice does Rachel give Tom about his relationship with Summer?",
+        "answer": "Rachel advises Tom to ask Summer about their relationship and not be afraid of the answer, suggesting it's better to know now rather than later."
+    },
+    {
+        "id": 72,
+        "question": "What is Tom's conflict when driving with Summer?",
+        "answer": "Tom is conflicted about asking Summer about their relationship and is unsure how to approach the conversation."
+    },
+    {
+        "id": 73,
+        "question": "How does Summer respond when Tom asks her about their relationship?",
+        "answer": "Summer tells Tom she's happy and doesn't think they need to label their relationship, saying 'who cares?'"
+    },
+    {
+        "id": 74,
+        "question": "What is the song that plays during the car ride and the rooftop party?",
+        "answer": "The song is not specified in the provided text, but it has a significant emotional impact on Tom and Summer."
+    },
+    {
+        "id": 75,
+        "question": "Why does Tom feel jealous at the rooftop party?",
+        "answer": "Tom feels jealous because Summer is getting attention from other people, and he misses the attention she was giving him."
+    },
+    {
+        "id": 76,
+        "question": "What is Tom's true career aspiration?",
+        "answer": "Tom actually wants to be an architect."
+    },
+    {
+        "id": 77,
+        "question": "What does Summer think Tom could be if he wanted to?",
+        "answer": "Summer thinks Tom could be a great architect if he wanted to."
+    },
+    {
+        "id": 78,
+        "question": "Why did Tom switch from architecture to writing greeting cards?",
+        "answer": "Tom switched because he thought writing greeting cards would allow him to create something that lasts forever, as opposed to buildings which he considers disposable."
+    },
+    {
+        "id": 79,
+        "question": "What is the turning point in Tom and Summer's relationship, according to the narrator?",
+        "answer": "The turning point is when Summer shares her personal story with Tom and tells him she's never told anyone that before, indicating she's letting her guard down and choosing to be closer to him."
+    },
+    {
+        "id": 80,
+        "question": "What is the significance of the scene where Tom and Summer have sex in the shower?",
+        "answer": "The scene shows the challenges and humor in their intimate moments, highlighting the reality of their relationship and the difficulties of physical intimacy."
+    },
+    {
+        "id": 81,
+        "question": "What is Tom's initial impression of Summer's appearance?",
+        "answer": "Tom hates her 1950s haircut, knobby knees, lopsided eyes, and centipede-shaped scar."
+    },
+    {
+        "id": 82,
+        "question": "What song is playing in the background when Tom is expressing his dislike for Summer?",
+        "answer": "An over-the-top romantic song."
+    },
+    {
+        "id": 83,
+        "question": "Why does Tom get into a fight with the Douchebag Guy at the bar?",
+        "answer": "Tom feels the need to defend himself and Summer after the Douchebag Guy is rude to him and hits on Summer."
+    },
+    {
+        "id": 84,
+        "question": "How does Summer react to Tom's fight with the Douchebag Guy?",
+        "answer": "Summer is mad at Tom and tells him she doesn't need his protection."
+    },
+    {
+        "id": 85,
+        "question": "What is Tom's occupation?",
+        "answer": "Not explicitly stated, but he mentions 'the copy room' and 'Ikea', suggesting he may work in an office or retail environment."
+    },
+    {
+        "id": 86,
+        "question": "What is the nature of Tom and Summer's relationship?",
+        "answer": "Tom wants a romantic relationship, but Summer is hesitant to label their relationship."
+    },
+    {
+        "id": 87,
+        "question": "What is Summer's attitude towards Tom's expectations of their relationship?",
+        "answer": "Summer tells Tom she can't promise him consistency and that she can only tell him how she feels in the moment."
+    },
+    {
+        "id": 88,
+        "question": "What game do Tom and Summer play in the park?",
+        "answer": "They take turns saying the word 'penis' in increasingly loud voices."
+    },
+    {
+        "id": 89,
+        "question": "What is the outcome of Tom and Summer's game in the park?",
+        "answer": "They both end up laughing and kissing on the ground."
+    },
+    {
+        "id": 90,
+        "question": "What is Tom's emotional state after his relationship with Summer?",
+        "answer": "Tom is heartbroken and feels alone, as depicted in the black and white film sequence."
+    },
+    {
+        "id": 91,
+        "question": "What is the significance of the black and white film sequence?",
+        "answer": "It represents Tom's emotional state and his feelings of being broken and alone after his relationship with Summer."
+    },
+    {
+        "id": 92,
+        "question": "Who is the Sad-Looking Mime in the black and white film sequence?",
+        "answer": "A character who follows Tom and requests a balloon from him, symbolizing Tom's emotional state."
+    },
+    {
+        "id": 93,
+        "question": "What is Summer's past relationship experience?",
+        "answer": "She has had relationships with Markus, Charlie, and Fernando Belardelli, also known as 'The Puma'."
+    },
+    {
+        "id": 94,
+        "question": "Why did Summer's relationship with Markus not work out?",
+        "answer": "Markus works for the Republican party and was not suitable for Summer."
+    },
+    {
+        "id": 95,
+        "question": "What is Tom's attitude towards Summer's past relationships?",
+        "answer": "Tom is curious and slightly jealous, but also willing to listen and understand Summer's experiences."
+    },
+    {
+        "id": 96,
+        "question": "How does Tom react to Summer's apology after their argument?",
+        "answer": "Tom accepts her apology and they kiss, with Summer telling Tom she can only promise to be honest about her feelings in the moment."
+    },
+    {
+        "id": 97,
+        "question": "What is the significance of the scene where Tom and Summer are in bed together?",
+        "answer": "It represents a moment of intimacy and connection between the two characters, with Tom finally feeling comfortable and accepted by Summer."
+    },
+    {
+        "id": 98,
+        "question": "What is Tom's expectation from Summer in terms of their relationship?",
+        "answer": "Tom needs consistency and wants to know that Summer won't wake up the next day feeling differently about him."
+    },
+    {
+        "id": 99,
+        "question": "How does Summer respond to Tom's expectation?",
+        "answer": "Summer tells Tom that she can't promise him consistency and that nobody can, but she can only tell him how she feels in the moment."
+    },
+    {
+        "id": 100,
+        "question": "What is the outcome of Tom and Summer's conversation about their relationship?",
+        "answer": "Tom and Summer come to a understanding, with Tom accepting Summer's honesty and Summer showing her affection for Tom."
+    },
+    {
+        "id": 101,
+        "question": "What is Tom's emotional state at the beginning of the screenplay?",
+        "answer": "Tom is a sad, broken man and the world is an awful place."
+    },
+    {
+        "id": 102,
+        "question": "What is the name of the song playing at the end of the black and white film?",
+        "answer": "You Make My Dream Come True by Hall and Oates."
+    },
+    {
+        "id": 103,
+        "question": "Who does Tom play chess against in the black and white film?",
+        "answer": "Cupid, a half-naked cherub with wings and an arrow."
+    },
+    {
+        "id": 104,
+        "question": "What is Tom's occupation?",
+        "answer": "Tom writes greeting cards."
+    },
+    {
+        "id": 105,
+        "question": "Why is Tom's work performance suffering?",
+        "answer": "Tom's work performance is suffering because of his personal issues, particularly his heartbreak over Summer leaving."
+    },
+    {
+        "id": 106,
+        "question": "What advice does Vance give to Tom?",
+        "answer": "Vance advises Tom to channel his energy into writing sympathy cards, as it's perfect for him given his current emotional state."
+    },
+    {
+        "id": 107,
+        "question": "What is the name of the woman Tom goes on a blind date with?",
+        "answer": "Alison, a red-haired, full-figured woman who majored in English at Brown."
+    },
+    {
+        "id": 108,
+        "question": "Why does Tom tell Alison that he's not interested in pursuing a relationship?",
+        "answer": "Tom tells Alison that he's not ready for a relationship because he's still hurt from his previous relationship with Summer."
+    },
+    {
+        "id": 109,
+        "question": "What is the name of the song Tom sings at the karaoke bar?",
+        "answer": "Train in Vain by The Clash."
+    },
+    {
+        "id": 110,
+        "question": "Where is Tom headed when he runs to catch a departing train?",
+        "answer": "San Diego."
+    },
+    {
+        "id": 111,
+        "question": "What is Tom's relationship with Summer like?",
+        "answer": "Tom is deeply in love with Summer, but she has left him and he is struggling to move on."
+    },
+    {
+        "id": 112,
+        "question": "What is the name of Tom's boss?",
+        "answer": "Vance."
+    },
+    {
+        "id": 113,
+        "question": "What is the occasion for which Tom is trying to write a card in the office?",
+        "answer": "Tom is trying to write a card for a wedding or anniversary, and comes up with the phrase 'T. Love. Us'."
+    },
+    {
+        "id": 114,
+        "question": "How does Tom feel about his job writing greeting cards?",
+        "answer": "Tom seems to be unfulfilled and unhappy with his job, using it as a way to express his emotions and cope with his heartbreak."
+    },
+    {
+        "id": 115,
+        "question": "What is the significance of the black and white film in the screenplay?",
+        "answer": "The black and white film is a metaphor for Tom's emotional state, with the character of Cupid representing the pain and heartbreak he is experiencing."
+    },
+    {
+        "id": 116,
+        "question": "How does Alison react to Tom's confession about his feelings for Summer?",
+        "answer": "Alison listens politely and tries to offer some advice, but ultimately seems to be put off by Tom's intensity and emotional baggage."
+    },
+    {
+        "id": 117,
+        "question": "What is the turning point in Tom's realization about his relationship with Summer?",
+        "answer": "The turning point comes when Alison asks Tom if Summer ever cheated on him or took advantage of him, and Tom begins to realize that he may have been the one who broke his own heart."
+    },
+    {
+        "id": 118,
+        "question": "What is the significance of the scene in which Tom and Summer ride in silence in the elevator?",
+        "answer": "The scene highlights the awkwardness and tension in Tom and Summer's relationship, and suggests that they may not be as compatible as Tom thinks."
+    },
+    {
+        "id": 119,
+        "question": "How does Tom's perception of Summer change throughout the screenplay?",
+        "answer": "Tom's perception of Summer changes from idealizing her as the perfect woman to realizing that she may not have been as invested in their relationship as he was."
+    },
+    {
+        "id": 120,
+        "question": "What is the overall tone of the screenplay?",
+        "answer": "The overall tone of the screenplay is one of melancholy, heartbreak, and self-discovery, with a touch of humor and irony."
+    },
+    {
+        "id": 121,
+        "question": "Why did McKenzie not attend the event?",
+        "answer": "McKenzie left a message saying he was sick."
+    },
+    {
+        "id": 122,
+        "question": "What is the name of the book Tom is reading on the train?",
+        "answer": "The Architecture of Happiness."
+    },
+    {
+        "id": 123,
+        "question": "What song is playing when Tom and Summer dance at the wedding reception?",
+        "answer": "Etta James's 'At Last'."
+    },
+    {
+        "id": 124,
+        "question": "What is Summer's favorite Beatle?",
+        "answer": "Ringo."
+    },
+    {
+        "id": 125,
+        "question": "Why did Tom and Summer go to the wedding?",
+        "answer": "They both knew Millie, the bride."
+    },
+    {
+        "id": 126,
+        "question": "What does Summer catch at the wedding?",
+        "answer": "The bouquet."
+    },
+    {
+        "id": 127,
+        "question": "What does Tom say about Summer's snoring?",
+        "answer": "He says she snores like a jackhammer."
+    },
+    {
+        "id": 128,
+        "question": "What does Summer say about Tom's feet?",
+        "answer": "She says they reek."
+    },
+    {
+        "id": 129,
+        "question": "What is the name of the groom that Millie marries?",
+        "answer": "The screenplay does not mention his name."
+    },
+    {
+        "id": 130,
+        "question": "How long did Millie's groom wait to find the right person?",
+        "answer": "41 years."
+    },
+    {
+        "id": 131,
+        "question": "What does Tom give Summer as a gift?",
+        "answer": "The book 'The Architecture of Happiness'."
+    },
+    {
+        "id": 132,
+        "question": "What does Summer show her friends at the party on the roof?",
+        "answer": "An engagement ring."
+    },
+    {
+        "id": 133,
+        "question": "How does Tom react when he sees the engagement ring?",
+        "answer": "He stops in his tracks, then runs past Summer and exits the building."
+    },
+    {
+        "id": 134,
+        "question": "What happens to Tom's universe after he exits Summer's building?",
+        "answer": "It falls apart, with the building and the city being erased brick by brick."
+    },
+    {
+        "id": 135,
+        "question": "What is Tom's occupation?",
+        "answer": "The screenplay does not explicitly state Tom's occupation, but it is mentioned that he works for Vance."
+    },
+    {
+        "id": 136,
+        "question": "What is the name of the company where Tom works?",
+        "answer": "Vance."
+    },
+    {
+        "id": 137,
+        "question": "What does Summer say when Tom sees her at the train?",
+        "answer": "Hi Tom."
+    },
+    {
+        "id": 138,
+        "question": "What does Tom say when Summer asks him how he has been?",
+        "answer": "Good. Good."
+    },
+    {
+        "id": 139,
+        "question": "What does Summer invite Tom to do at the end of the wedding reception?",
+        "answer": "She invites him to a party on Friday at a roof deck."
+    },
+    {
+        "id": 140,
+        "question": "What is the relationship between Tom and Summer at the beginning of the screenplay?",
+        "answer": "The screenplay does not explicitly state their current relationship, but they have a past and seem to have a connection."
+    },
+    {
+        "id": 141,
+        "question": "What is Tom buying at the market?",
+        "answer": "Milk, OJ, cigarettes, Jack Daniels, and Twinkies."
+    },
+    {
+        "id": 142,
+        "question": "What is Tom's job?",
+        "answer": "Tom works in an office, but his specific job title is not mentioned."
+    },
+    {
+        "id": 143,
+        "question": "What is the presentation about in the boardroom?",
+        "answer": "A female co-worker, Rhoda, is presenting inspirational cards featuring her cat, Pickles."
+    },
+    {
+        "id": 144,
+        "question": "Why does Tom quit his job?",
+        "answer": "Tom quits his job because he feels that the company is responsible for spreading lies and heartache through their greeting cards, and he doesn't want to be a part of it."
+    },
+    {
+        "id": 145,
+        "question": "What is Tom sketching in his notebook at the soccer field?",
+        "answer": "Tom is sketching a flip book of himself being stabbed repeatedly by a pitchfork-wielding Summer."
+    },
+    {
+        "id": 146,
+        "question": "What advice does Rachel give Tom?",
+        "answer": "Rachel tells Tom that she knows he thinks Summer was 'the one,' but she thinks he's just remembering the good stuff and should look again."
+    },
+    {
+        "id": 147,
+        "question": "What is the significance of the picnic scene in Angelus Plaza?",
+        "answer": "The picnic scene is the day when Tom and Summer's relationship finally fell apart."
+    },
+    {
+        "id": 148,
+        "question": "What is Summer's behavior like during the picnic scene?",
+        "answer": "Summer is hardly looking at Tom and is distant, indicating that something is wrong in their relationship."
+    },
+    {
+        "id": 149,
+        "question": "What is Tom's reaction to Summer's behavior?",
+        "answer": "Tom tries to make eye contact with Summer and seems unsure of what's going on."
+    },
+    {
+        "id": 150,
+        "question": "What is the significance of the record store scene?",
+        "answer": "In the record store, Tom tries to hold Summer's hand, but she moves it away, indicating a growing distance between them."
+    },
+    {
+        "id": 151,
+        "question": "What is Summer's response when Tom asks if everything is alright with her?",
+        "answer": "Summer says she's just tired."
+    },
+    {
+        "id": 152,
+        "question": "What is the turning point for Tom after his breakup with Summer?",
+        "answer": "Tom starts to get his life together, starts sketching again, and begins to pursue a career in architecture."
+    },
+    {
+        "id": 153,
+        "question": "What is Tom doing in the montage sequence?",
+        "answer": "Tom is getting his life together, exercising, reading books on architecture, and applying to architecture firms."
+    },
+    {
+        "id": 154,
+        "question": "What is the significance of the chalkboard in Tom's bedroom?",
+        "answer": "The chalkboard initially has greeting card paraphernalia, but Tom erases it and later uses it to list architecture firms and sketch new ideas."
+    },
+    {
+        "id": 155,
+        "question": "What is Tom's interaction like with Summer when they meet again at the bench?",
+        "answer": "Tom and Summer have an awkward but cordial conversation, with Summer congratulating Tom on quitting his job and Tom congratulating Summer on her marriage."
+    },
+    {
+        "id": 156,
+        "question": "What is Summer's attitude towards Tom when they meet again?",
+        "answer": "Summer seems friendly and genuinely happy to see Tom, but also a bit awkward."
+    },
+    {
+        "id": 157,
+        "question": "What is Tom's emotional state when he meets Summer again?",
+        "answer": "Tom seems to be in a state of acceptance and is working on moving on from his past relationship with Summer."
+    },
+    {
+        "id": 158,
+        "question": "What is the significance of the Angelus Plaza bench?",
+        "answer": "The bench is a special place for Tom and Summer, where they had shared a significant moment in their relationship."
+    },
+    {
+        "id": 159,
+        "question": "What is Tom's career goal?",
+        "answer": "Tom wants to pursue a career in architecture."
+    },
+    {
+        "id": 160,
+        "question": "What is the outcome of Tom's job search?",
+        "answer": "Tom faces rejection from several architecture firms, but he continues to apply and eventually finds a new path."
+    },
+    {
+        "id": 161,
+        "question": "Why did Summer dance with Tom at the wedding?",
+        "answer": "She wanted to."
+    },
+    {
+        "id": 162,
+        "question": "What did Tom realize about his beliefs in destiny and true love?",
+        "answer": "He realized that everything he believed in was complete and utter bullshit."
+    },
+    {
+        "id": 163,
+        "question": "What book was Summer reading at the corner deli when she met her husband?",
+        "answer": "Dorian Gray."
+    },
+    {
+        "id": 164,
+        "question": "What did Summer tell Tom about her marriage?",
+        "answer": "It just happened, and she knew it was meant to be, just like Tom said."
+    },
+    {
+        "id": 165,
+        "question": "What did Tom hope for Summer at the end of their conversation?",
+        "answer": "He hoped she was happy."
+    },
+    {
+        "id": 166,
+        "question": "Where did Tom go for a job interview?",
+        "answer": "Allen, Prince, and Gethers Architecture, located in the Bradbury Building on 3rd and Broadway."
+    },
+    {
+        "id": 167,
+        "question": "What did Tom notice about the girl he met in the waiting area?",
+        "answer": "He thought she was cute, and he'd like to talk more with her."
+    },
+    {
+        "id": 168,
+        "question": "Where did the girl grow up?",
+        "answer": "Atherton, near Stanford."
+    },
+    {
+        "id": 169,
+        "question": "What did Tom and the girl bond over?",
+        "answer": "Their shared love for Angelus Plaza, except for the parking lots."
+    },
+    {
+        "id": 170,
+        "question": "What did the narrator say about life events?",
+        "answer": "Nothing is meant to be, and there are no miracles, only coincidence."
+    },
+    {
+        "id": 171,
+        "question": "What did Tom ask the girl to do after the interview?",
+        "answer": "He asked her to grab a cup of coffee with him."
+    },
+    {
+        "id": 172,
+        "question": "What was the girl's name?",
+        "answer": "Autumn."
+    },
+    {
+        "id": 173,
+        "question": "Why did Summer laugh hysterically?",
+        "answer": "She found it funny that Tom was talking about destiny and true love, when in fact, she had found her husband by coincidence."
+    },
+    {
+        "id": 174,
+        "question": "What did Tom learn from his experience with Summer?",
+        "answer": "He learned that you shouldn't ascribe great cosmic significance to a simple earthly event."
+    },
+    {
+        "id": 175,
+        "question": "What was Tom's attitude towards the girl at first?",
+        "answer": "He saw her as his competition for the job, but then he became interested in talking to her more."
+    },
+    {
+        "id": 176,
+        "question": "What did the narrator say Tom was sure of?",
+        "answer": "Tom was sure that there are no miracles, and nothing is meant to be, but then he became less sure."
+    },
+    {
+        "id": 177,
+        "question": "What did Summer say to Tom when he told her he hoped she was happy?",
+        "answer": "She said 'I know'."
+    },
+    {
+        "id": 178,
+        "question": "What did Tom and Summer's conversation reveal about their relationship?",
+        "answer": "It revealed that Tom still had feelings for Summer, but she had moved on and was happy with her husband."
+    },
+    {
+        "id": 179,
+        "question": "What was the turning point in Tom's understanding of love and destiny?",
+        "answer": "It was his conversation with Summer, where she told him that she had found her husband by coincidence, and that Tom's beliefs were not true for her."
+    },
+    {
+        "id": 180,
+        "question": "What did Tom's interaction with the girl in the waiting area suggest about his future?",
+        "answer": "It suggested that Tom was open to new relationships and experiences, and that he might have a chance at happiness with someone else."
+    }
+]
