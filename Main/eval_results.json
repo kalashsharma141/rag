@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the name of the boy in the story?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "Where is Tom from?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 0.00,
+        "hallucination": 1.00
+    },
+    {
+        "question": "What is the name of the girl in the story?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "Where is Summer from?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 0.00,
+        "hallucination": 1.00
+    },
+    {
+        "question": "What does Tom believe in?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 0.60,
+        "hallucination": 0.90
+    },
+    {
+        "question": "What is Summer's attitude towards love?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "What is Tom's occupation?",
+        "faithfulness": 0.67,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "What is Summer's job?",
+        "faithfulness": 0.67,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "How does Tom meet Summer?",
+        "faithfulness": 0.50,
+        "answer_relevancy": 1.00,
+        "hallucination": 0.00
+    },
+    {
+        "question": "What is the date when Tom meets Summer?",
+        "faithfulness": 1.00,
+        "answer_relevancy": 0.00,
+        "hallucination": 1.00
+    }
+]

@@ -23,11 +23,8 @@ class GroqModel(DeepEvalBaseLLM):
             "model": self.model,
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0,
-            "max_tokens": 512,
+            "max_tokens": 1024,
         }
-
-        if schema is not None and hasattr(schema, "model_json_schema"):
-            request_kwargs["response_format"] = {"type": "json_object"}
 
         for attempt in range(3):
             try:
@@ -51,4 +48,4 @@ class GroqModel(DeepEvalBaseLLM):
         return self.generate(prompt, schema=schema, **kwargs)
 
     def supports_json_mode(self) -> bool:
-        return True
+        return False
