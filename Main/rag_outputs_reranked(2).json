@@ -1,0 +1,326 @@
+[
+    {
+        "question": "What is the name of the boy in the story?",
+        "expected_answer": "Tom Hansen",
+        "rag_answer": "Tom.",
+        "retrieved_chunks": [
+            "bench, high above the city of Los Angeles. Their names are\nTOM and SUMMER and right now neither one says a word.\nCLOSE ON their HANDS, intertwined. Notice the wedding ring\non her finger. CLOSE ON Tom, looking at Summer the way every\nwoman wants to be looked at.\nAnd then a DISTINGUISHED VOICE begins to speak to us.\nNARRATOR\nThis is a story of boy meets girl.\nINT CONFERENCE ROOM —- DAY 2",
+            "Summer answers a call, takes a message, and walks out of her\ncubicle down a long narrow hallway.\nNARRATOR\nTom meets Summer on June the 8th.\nHe knows almost immediately...\nshe’s who he’s been searching for.\nCU Summer opening the door to the boardroom, about to come\nface to face with Tom for the first time.\nNARRATOR\nThis is a story of boy meets girl.\nBut before they do,\nBLACK.9A\n10",
+            "Yellow Revised 5/14/08 3\nNARRATOR\nYou should know up front, this is\nnot a love story.\nINT/EXT OPENING CREDITS SEQUENCE: 7\nSPLITSCREEN OF TOM AND SUMMER AS CHILDREN GROWING UP IN THEIR\nOWN SEPARATE WORLDS, DISCONNECTED AND YET SOMEHOW... NOT.\nFor example...\nOn the left, Young Tom blows bubbles in a field.\nOn the right,\nINT/EXT FIELD - DAY 8",
+            "Summer gives a little wave before following Vance out. Tom\nlooks like he’s just seen God. And on his face, we hear:\nNARRATOR\nThere’s only two kinds of people in\nthe world. There’s women... and\nthere’s men.\nCUT TO:\nEXT STREET - DAY - 16MM B&W 25\nSummer rides a bicycle down the street.\nNARRATOR\nSummer Finn was a woman.\nFREEZE on SUMMER. (Throughout the following, SUBTITLES will",
+            "AGAINST HIM. And then they’re kissing. And it’s unbelievable.\nThere‘s a few seconds where Tom isn’t sure if he’s dreaming\nor not. But then he realizes, just like that... somehow he’s\nliving his best case scenario.\n57 INT TOM’S PLACE - THAT NIGHT 57\nTom answers the door. It’s Paul (in hospital scrubs).\nPAUL\nYou son of a bitch.\nHe walks inside without waiting for an invite.\nTOM\n(anxious )\nShhh."
+        ]
+    },
+    {
+        "question": "Where is Tom from?",
+        "expected_answer": "Margate, New Jersey",
+        "rag_answer": "Tom is from New Jersey, but he lived there until he was 12.",
+        "retrieved_chunks": [
+            "And, he’s a little surprised by it.\nTOM\nSo, uh...\nGIRL\nHmm?\nTOM\nAre you from...California?\nGIRL\nGrew up not too far from here.\nAtherton, near Stanford.\nTOM\nYeah I know Atherton. Nice area.\nGIRL\nHave I seen you before?Yellow Revised 5/14/08 107\nTOM\nI, uh, I don't think so.\nGIRL\nDo you ever go to Angelus Plaza?\nTOM\nI love it there. It’s like my\nfavorite spot in the city.\nGIRL",
+            "hopeful that she’ll come over. She doesn’t. He hides his\ndisappointment.\nLATER. Tom walks back to his table with drinks. Summer is 50\nthere in mid-conversation with McKenzie.\nTOM\nYou were great up there.\nSUMMER\nThanks. I was hoping to sing “Born\nto Run” but they didn’t have it.\nTOM\nI love “Born to Run.”\nMCKENZIE\nTom here’s from New Jersey.\nSUMMER\nYeah?\nTOM\nLived there til I was 12.\nSUMMER",
+            "You did the right thing. Where is\nhe?\n3AYellow Revised 5/14/08 4\nTom is in the kitchen breaking things and basically going\nnuts.\nAs he does, we should notice a few things about his place.\nOne, though it isn’t big, it is organized by a master. Two,\non the walls, is a series of framed portraits, each one a\nfamous building and its architectural blueprint. As we’ll",
+            "Who’s Lars from Norway?\nRACHEL\nJust some guy she met at the gym\nwith Brad Pitt’s face and Jesus’s\nabs.\nTOM\nBastard.\nThe whistle blows again and Rachel gets up to go back on the\nfield.81\nOn Tom,\nYellow Revised 5/14/08 52\nTOM\nCoach, wait! We're not done.\nRACHEL\n(calling back)\nIt’s easy Tom... just don’t be a\npussy!\nwe:\nCUT TO:\nINT TOM’S CAR - LATER 81",
+            "Tom is, yes, on stage singing “Train in Vain” by The Clash.\nThe song is usually quite peppy but Tom’s version is a cross\nbetween Henry Rollins and Alice Cooper. He is losing his\nfucking mind!\nAlison sits by herself in a booth trying to hide her face,\nhaving the worst date ever.\n(360) EXT — UNION STATION TRAIN PLATFORM —- DAY 128\nTom runs to catch a departing train, bound for San Diego. He"
+        ]
+    },
+    {
+        "question": "What is the name of the girl in the story?",
+        "expected_answer": "Summer Finn",
+        "rag_answer": "The name of the girl in the story is Summer.",
+        "retrieved_chunks": [
+            "bench, high above the city of Los Angeles. Their names are\nTOM and SUMMER and right now neither one says a word.\nCLOSE ON their HANDS, intertwined. Notice the wedding ring\non her finger. CLOSE ON Tom, looking at Summer the way every\nwoman wants to be looked at.\nAnd then a DISTINGUISHED VOICE begins to speak to us.\nNARRATOR\nThis is a story of boy meets girl.\nINT CONFERENCE ROOM —- DAY 2",
+            "Summer answers a call, takes a message, and walks out of her\ncubicle down a long narrow hallway.\nNARRATOR\nTom meets Summer on June the 8th.\nHe knows almost immediately...\nshe’s who he’s been searching for.\nCU Summer opening the door to the boardroom, about to come\nface to face with Tom for the first time.\nNARRATOR\nThis is a story of boy meets girl.\nBut before they do,\nBLACK.9A\n10",
+            "GIRL\nIt would appear.\nTOM\nSo, uh, little awkward.\nGIRL\nYeah.\nTOM\nWell, I hope you... don’t get the\njob,\nGIRL\nI hope you don’t get the job.\nThey both laugh. There's a silence for a few beats. And it’s\nduring this time that something weird comes over Tom and we\ncan visibly see it in his face. He likes the look of this\ngirl. This girl is cute. He’d like to talk more with her.",
+            "Her name is ALISON, red hair, full-figured, not bad looking\nat all.\nALISON\nYeah. Phew! I was afraid you were\nthat guy.\nTOM\nNope. Hope you’re not disappointed.\nALISON\nNo. This is much better.\nTOM\nYeah totally. So, uh, shall we?\nTom grabs his coat, is about to walk out with her, but swigs\nwhat’s left of his drink before he does. Tom puts on a brave\nface and they walk out into:",
+            "the task at hand. A job interview. And then he hears.\nGIRL\nSure.\nTom turns back around.\nTOM\nWhat’s that?\nGIRL\nWhy not?\nTOM\nYeah?Yellow Revised 5/14/08\nGIRL\nYeah.\nTOM\nGreat! So... I’ll wait for you\nhere, or you wait for me\nor...something.\nShe laughs. She’s cute when she laughs.\nGIRL\nWe’‘ll figure it out.\nTOM\nok!\n(extends hand to shake)\nMy name’s Tom.\nGIRL\nNice to meet you...\n109"
+        ]
+    },
+    {
+        "question": "Where is Summer from?",
+        "expected_answer": "Shinnecock, Michigan",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "Summer is all over the place).\nQUICK CUTS FROM DURING THE NIGHT: 78\n- Summer laughing at something Tom said.\nNARRATOR (CONT’D)\n... and here was Summer, wanting\nhim there. Him, no one else.\n- Tom and Summer in bed together.\nSUMMER\nTornados?\nTOM\nWeird, right?\nSUMMER\nYou live in LA. Why would you dream\nof tornados?\nTOM\nI don’t know but I do. Tornados.\nAnd my teeth falling out.\nSUMMER",
+            "hopeful that she’ll come over. She doesn’t. He hides his\ndisappointment.\nLATER. Tom walks back to his table with drinks. Summer is 50\nthere in mid-conversation with McKenzie.\nTOM\nYou were great up there.\nSUMMER\nThanks. I was hoping to sing “Born\nto Run” but they didn’t have it.\nTOM\nI love “Born to Run.”\nMCKENZIE\nTom here’s from New Jersey.\nSUMMER\nYeah?\nTOM\nLived there til I was 12.\nSUMMER",
+            "Summer runs through a field of dandelions, flying in the wind\nall around her. It should look like the dandelions originated\nwith Tom’s breath.\nThat sort of thing. Anyway...\nFADE IN:\n(240)\nEXT DOWNTOWN LA —- NIGHT 9\nA 12 year old GIRL rides her bicycle down the block towards\nthe Downtown skyline.\nEXT. TOM’S PLACE —- SAME 9A\nThe girl arrives at an apartment complex, jumps off the bike",
+            "This spike in Michigan sales of\ntheir album “Boy With the Arab\nStrap” continues to puzzle industry\nanalysts.\n(-4779)\nINT COLLEGE CAMPUS - ICE CREAM PARLOR — DAY —- 16MM B&W 28\nSummer works as a dipper at a busy old timey campus creamery.\nNARRATOR\nSummer’s employment at Two Cents\nPlain during second semester\nsophomore year coincided with an\ninexplicable 212% increase in\nrevenue.",
+            "Summer gives a little wave before following Vance out. Tom\nlooks like he’s just seen God. And on his face, we hear:\nNARRATOR\nThere’s only two kinds of people in\nthe world. There’s women... and\nthere’s men.\nCUT TO:\nEXT STREET - DAY - 16MM B&W 25\nSummer rides a bicycle down the street.\nNARRATOR\nSummer Finn was a woman.\nFREEZE on SUMMER. (Throughout the following, SUBTITLES will"
+        ]
+    },
+    {
+        "question": "What does Tom believe in?",
+        "expected_answer": "True love",
+        "rag_answer": "Tom believes in the concept of \"love\" and \"soulmates,\" but after his conversation with Summer, he realizes that these ideas are \"complete and utter bullshit.\"",
+        "retrieved_chunks": [
+            "You don’t actually believe that, do\nyou?\nTOM\nBelieve what? It’s love, it’s not\nSanta Claus.\nSUMMER\nWhat does that word even mean? I’ve\nbeen in relationships before and I\ncan tell you right now I’ve never\nseen it.\nTOM\nWell maybe that’s cause --\nSUMMER\nAnd I know that today most\nMarriages end in divorce. Like my\nparents.\nTOM\nWell mine too but --\nSUMMER\nI read an article in the New",
+            "What just happened?\nSUMMER\nI... Tom... I just... I woke up one\nday and I knew...\nTOM\nKnew what?\nSUMMER\nWhat I was never sure of with you.\nAnd there’s not much else to say after that.\nTOM\nT’11 tell you what sucks, Summer.\nRealizing that everything you\nbelieve in is complete and utter\nbullshit. That sucks.\nSUMMER\nWhat do you mean?\nTOM\nDestiny, soulmates, true love. All",
+            "TOM\nI think we do a bad thing here.\nPeople should be able to say how\nthey feel, how they really feel,\nwithout some strangers putting\nwords in their mouths. Words like\n“love” that don’t mean shit.168\n169\nYellow Revised 5/14/08 94\nTom gets up and walks to the door.\nTOM\nI’m sorry Mr. Vance, but I quit.\nThere’s enough bullshit in the\nworld without my help.",
+            "Here’s what I would say...\nTom sees the side of Summer’s face across the room.\nTOM\n“T. Love. Us.”\n(beat)\nWhat do you think?\nMILLIE\n(clutching her heart)\nIt’s beautiful.\nThe Women are so moved they might faint.\nINT OFFICE HALLWAY - LATER 118\nTom passes Summer at her desk. She waves. He waves back. He’s\nso in love with her.\n(306)\nEXT. DOWNTOWN STREET - DAY 119",
+            "You did the right thing. Where is\nhe?\n3AYellow Revised 5/14/08 4\nTom is in the kitchen breaking things and basically going\nnuts.\nAs he does, we should notice a few things about his place.\nOne, though it isn’t big, it is organized by a master. Two,\non the walls, is a series of framed portraits, each one a\nfamous building and its architectural blueprint. As we’ll"
+        ]
+    },
+    {
+        "question": "What is Summer's attitude towards love?",
+        "expected_answer": "She does not believe in it",
+        "rag_answer": "Summer is skeptical about love, having been in relationships before and seeing most marriages end in divorce. She believes love is messy and feelings get hurt, and thinks it's better to have fun and leave the serious stuff for later.",
+        "retrieved_chunks": [
+            "Here’s what I would say...\nTom sees the side of Summer’s face across the room.\nTOM\n“T. Love. Us.”\n(beat)\nWhat do you think?\nMILLIE\n(clutching her heart)\nIt’s beautiful.\nThe Women are so moved they might faint.\nINT OFFICE HALLWAY - LATER 118\nTom passes Summer at her desk. She waves. He waves back. He’s\nso in love with her.\n(306)\nEXT. DOWNTOWN STREET - DAY 119",
+            "wants to tell Summer about this. Looks for her again on the\nroof.\nAnd then he sees her. While “Expectations” and Summer are\nlocked in some passionate embrace, “Reality” sees Summer do\nsomething odd. She’s showing some FEMALE FRIENDS a ring on\nher finger. An engagement ring. (Yes, she’s been wearing it\nthe whole time.)158A\n159\n160\n160A\n160B\nYellow Revised 5/14/08 89",
+            "You don’t actually believe that, do\nyou?\nTOM\nBelieve what? It’s love, it’s not\nSanta Claus.\nSUMMER\nWhat does that word even mean? I’ve\nbeen in relationships before and I\ncan tell you right now I’ve never\nseen it.\nTOM\nWell maybe that’s cause --\nSUMMER\nAnd I know that today most\nMarriages end in divorce. Like my\nparents.\nTOM\nWell mine too but --\nSUMMER\nI read an article in the New",
+            "intimately, Summer leaves “Reality” alone as she flits around\nthe roof. Tom gets a drink. Smiles at a cute girl but has no\ninterest. Minds his business waiting for Summer’s return.\nOn the right, “Expectations” and Summer remain locked in a\nserious conversation. They don’t take their eyes off one\nanother. Summer plays with her hair. Their knees are almost\ntouching.",
+            "Relationships are messy and\nfeelings get hurt. Who needs all\nthat? We’re young. We’re in one of\nthe most beautiful cities in the\nworld. I say, let’s have as much\nfun as we can have and leave the\nserious stuff for later.\nMCKENZIE\nHoly shit. You’re a dude.\nTOM\n(ignoring him)\nSo then... what happens if you fall\nin love?\nSummer laughs at this.Yellow Revised 5/14/08\nTOM\nWhat?\nSUMMER"
+        ]
+    },
+    {
+        "question": "What is Tom's occupation?",
+        "expected_answer": "He works at a greeting card company",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "Tom sits with his feet up on a table, headphones on his ears,\nreading one of many Taschen books on innovative building\ndesign.\nINT TOM’S BEDROOM —- LATER 181A\nWe now see a list of names on the chalkboard. These are\narchitecture firms. Tom has a phone in one hand, is sketching\nsomething new with the other.\nINT OFFICE LOBBY —- DAY 182\nTom drops off his portfolio with the security guard in the",
+            "You did the right thing. Where is\nhe?\n3AYellow Revised 5/14/08 4\nTom is in the kitchen breaking things and basically going\nnuts.\nAs he does, we should notice a few things about his place.\nOne, though it isn’t big, it is organized by a master. Two,\non the walls, is a series of framed portraits, each one a\nfamous building and its architectural blueprint. As we’ll",
+            "No one knows what the hell he just said except for one\nEmployee who bursts out in tears of joy.\nINT WEDDINGS AND ANNIVERSARIES SUITE —- LATER 117\nAll of the people who work in here are MIDDLE AGED WOMEN.\nCurrently, they are standing around one desk where Tom sits\nhelping everyone with their cards.\nMILLIE\nWe’ve been stuck on this for an\nhour.\nTom looks it over. Thinks.\nTOM",
+            "soon learn, Tom has a big interest in architecture.\nAbout to smash a plate on the floor, he’s interrupted by:\nGIRL\nThomas.\nTom freezes.\nTOM\nRachel? What are you doing here?\nRachel is Tom’s 12-year old half-sister.\nRACHEL\nI’m here to help you.\nTOM\nHelp me how?\nRACHEL\nFirst, put down the plate.\nCUT TO:\nINT TOM’S APARTMENT - LATER 11\nTom sits next to Rachel. Paul and Mckenzie sit on either side",
+            "Tom. Mr. Vance would like to see\nyou in his office?\nINT VANCE’S OFFICE - DAY 114\nTom has been called into the Principal’s office.\nVANCE\nSit down, Tom.\n(he does)\nHas something happened to you\nrecently?\nTOM\nWhat do you mean?\nVANCE\nA death in the family, someone\ntaken ill...anything like that?\nTOM\nNo.\nVANCE\nLook, I don’t mean to pry. Does\nthis have something to do with\nSummer leaving.\nTOM"
+        ]
+    },
+    {
+        "question": "What is Summer's job?",
+        "expected_answer": "She is an assistant to Mr. Vance",
+        "rag_answer": "Summer works as a dipper at a busy old timey campus creamery, and also takes messages and works in a cubicle, suggesting she may have a part-time or administrative job.",
+        "retrieved_chunks": [
+            "This spike in Michigan sales of\ntheir album “Boy With the Arab\nStrap” continues to puzzle industry\nanalysts.\n(-4779)\nINT COLLEGE CAMPUS - ICE CREAM PARLOR — DAY —- 16MM B&W 28\nSummer works as a dipper at a busy old timey campus creamery.\nNARRATOR\nSummer’s employment at Two Cents\nPlain during second semester\nsophomore year coincided with an\ninexplicable 212% increase in\nrevenue.",
+            "(brightens )\nHi.\nSummer makes some copies of her own at the neighboring\nmachine. Tom steals a glance but Summer is all business. Tom\nthinks about saying something more. Nothing comes. He goes\nback to copying. They are two people, making photocopies,\nnothing to see here.\nTOM\nThat was fun last --\nWhen suddenly, without his even noticing, SUMMER IS PRESSING",
+            "(laughs, it’s still\namazing)\nMaybe you should do something else.\nTOM\nYeah. I studied to be an architect,\nactually.\nSUMMER\nThat’s cool! What happened?\nTOM\nDidn‘t work out. Needed a job. Here\nwe are.\nSUMMER\nYou any good?\nTOM\n(points to a framed card)\nWell I wrote that one.\nSUMMER\n(reading)\n\"Today You’re a Man. Mazel Tov on\nyour Bar Mitzvah.”\nTOM\nIt’s a big seller.\nSUMMER",
+            "Summer follows, doing her best Donna Reed impression.\nSUMMER\nI made it myself. It’s your\nfavorite.\nTOM\nBald eagle?\nSUMMER\nGross.\nTOM\nEver try it?\nSummer goes to turn on the sink but no water comes out.\nSUMMER\nUh-oh. The sink is broken!\nTOM\nNot to worry.\nHe jumps up and pulls her into the next room, another\nkitchen.\nTOM (CONT’D)\nThat’s why we bought a house with\ntwo kitchens.\nSUMMER",
+            "Summer answers a call, takes a message, and walks out of her\ncubicle down a long narrow hallway.\nNARRATOR\nTom meets Summer on June the 8th.\nHe knows almost immediately...\nshe’s who he’s been searching for.\nCU Summer opening the door to the boardroom, about to come\nface to face with Tom for the first time.\nNARRATOR\nThis is a story of boy meets girl.\nBut before they do,\nBLACK.9A\n10"
+        ]
+    },
+    {
+        "question": "How does Tom meet Summer?",
+        "expected_answer": "At work, when Summer is introduced as the new assistant",
+        "rag_answer": "Tom meets Summer on June the 8th. He knows almost immediately that she's who he's been searching for.",
+        "retrieved_chunks": [
+            "Summer answers a call, takes a message, and walks out of her\ncubicle down a long narrow hallway.\nNARRATOR\nTom meets Summer on June the 8th.\nHe knows almost immediately...\nshe’s who he’s been searching for.\nCU Summer opening the door to the boardroom, about to come\nface to face with Tom for the first time.\nNARRATOR\nThis is a story of boy meets girl.\nBut before they do,\nBLACK.9A\n10",
+            "Tom doesn’t process this at first. He takes a step, still\nplanning to tell her about her view, before realizing the\nsignificance of what he’s seeing. Then he stops in his\ntracks.\nSummer sees Tom and puts it all together. Her face drops. She\npulls her hand away from her friends and walks over to him.\nSUMMER\nIt just happened!\nAnd he just races past her before she can stop him. The music\nbuilds...",
+            "Summer takes “Expectations” Tom to the side so they can be\nalone.\nOn the left, Summer introduces “Reality” to a circle of seven\nor eight people. (NOTE: This is the scene we saw on p. 51-\n52). The party is actually quite large, with 30 or 40 people\nTom has never seen before in his life. Summer’s friends,\nwithout him.\nWhile “Expectations” and Summer continue to talk 157",
+            "Tom follows Summer in to the room. They take their seats.\nSoon enough, the giggles begin.\nSUMMER\n(whispers)\nPenis.\nTOM\nStop it!\nLATER. MILLIE marries her 70-something GROOM. 135136\n137\n138\n139\nYellow Revised 5/14/08 83\nMINISTER\nYou may kiss the bride.\nHe does. Deeply. Tom turns to Summer.\nTOM\nYou’re telling me you'll never want\nthat?\nSummer’s face is unreadable. She says nothing.",
+            "Her co-workers whistle and cheer her on. She takes a deep\nbreath as her song begins (something exceedingly awesome! )\nSummer starts to sing unabashed. Even her uncoolness is cool.\nTom is awed.\nLATER. Tom sits in the booth with McKenzie (doing a shot) 49\nas Summer chats with co-workers at another table. Tom can’t\nhelp but stare at Summer. She notices and waves. He smiles,"
+        ]
+    },
+    {
+        "question": "What is the date when Tom meets Summer?",
+        "expected_answer": "June 8th",
+        "rag_answer": "Tom meets Summer on June the 8th.",
+        "retrieved_chunks": [
+            "Summer answers a call, takes a message, and walks out of her\ncubicle down a long narrow hallway.\nNARRATOR\nTom meets Summer on June the 8th.\nHe knows almost immediately...\nshe’s who he’s been searching for.\nCU Summer opening the door to the boardroom, about to come\nface to face with Tom for the first time.\nNARRATOR\nThis is a story of boy meets girl.\nBut before they do,\nBLACK.9A\n10",
+            "Tom follows Summer in to the room. They take their seats.\nSoon enough, the giggles begin.\nSUMMER\n(whispers)\nPenis.\nTOM\nStop it!\nLATER. MILLIE marries her 70-something GROOM. 135136\n137\n138\n139\nYellow Revised 5/14/08 83\nMINISTER\nYou may kiss the bride.\nHe does. Deeply. Tom turns to Summer.\nTOM\nYou’re telling me you'll never want\nthat?\nSummer’s face is unreadable. She says nothing.",
+            "SUMMER\nSmiths fan.\nTOM\nThat’s me. Tom.\nSUMMER\nNice to meet you.Yellow Revised 5/14/08\nTOM\nSo how’s it going?\nSUMMER\nPretty good.\nTOM\nYou just moved here, when?\nSUMMER\nSaturday.\nTOM\nWow. And what, uh, brought you?\nSUMMER\nBoredom, mostly. Got tired of what\nI was doing, who I was with.\nFigured I’d try something new,\nexciting.\nTOM\n(re: mild office party)\nWell you’ve clearly come to the\nright place.",
+            "158\nYellow Revised 5/14/08 88\nINT SUMMER’S APARTMENT - SAME 155\nBut then “Expectations” arrives first. Summer invites Tom\ninside. She gives him a huge embrace. She kisses him, right\nwhere the lips meet the cheek. Very close to a full-frontal\nlip kiss. (ECU the point of kiss contact).\n“Reality” arrives soon after. She comes over and gives him a",
+            "at her side. Tom puts his hands in his pockets, unsure if\nthere’s something to read in that.\nEXT RECORD STORE - LATER 176\nAgain, that fateful day continues. Tom and Summer outside.Yellow Revised 5/14/08 98\nSUMMER\nSo.\nTOM\nSo... Now what? You hungry? Wanna\nget some dinner or something?\nSUMMER\nI think I’m gonna call it a day.\nTOM\nYou sure?\nSUMMER\nYeah. I’ve got pasta at home.\nTOM\n(beat)"
+        ]
+    },
+    {
+        "question": "What is the name of Tom's half-sister?",
+        "expected_answer": "Rachel",
+        "rag_answer": "Rachel is Tom's 12-year-old half-sister.",
+        "retrieved_chunks": [
+            "soon learn, Tom has a big interest in architecture.\nAbout to smash a plate on the floor, he’s interrupted by:\nGIRL\nThomas.\nTom freezes.\nTOM\nRachel? What are you doing here?\nRachel is Tom’s 12-year old half-sister.\nRACHEL\nI’m here to help you.\nTOM\nHelp me how?\nRACHEL\nFirst, put down the plate.\nCUT TO:\nINT TOM’S APARTMENT - LATER 11\nTom sits next to Rachel. Paul and Mckenzie sit on either side",
+            "Her name is ALISON, red hair, full-figured, not bad looking\nat all.\nALISON\nYeah. Phew! I was afraid you were\nthat guy.\nTOM\nNope. Hope you’re not disappointed.\nALISON\nNo. This is much better.\nTOM\nYeah totally. So, uh, shall we?\nTom grabs his coat, is about to walk out with her, but swigs\nwhat’s left of his drink before he does. Tom puts on a brave\nface and they walk out into:",
+            "I know you think she was “the one.”\n(beat)\nIT don’t. I think you’re just\nremembering the good stuff. Next\ntime you look back, you should look\nagain.\nShe blows him a kiss and then runs back onto the field. Tom\nwatches her go. Off his face, we cut to:\n(240)\nEXT ANGELUS PLAZA — DAY 170\nTom and Summer are having the picnic we saw on page 5. This\nis that fateful day Tom described to his sister and his",
+            "girl likes the same bizarro crap\nyou do doesn’t make her your\nsoulmate.\nTOM\n(beat)\nOf course it does.\nSARAH (0.S.)\nDinner!\nSARAH, 50s, Tom and Rachel’s mother, stands in the doorway.\nSARAH\nPause and come eat.\nThey do. Tom enter:\n40A INT. LIVING ROOM -SAME 40A\nTom sits down next to his stepdad Martin, 60s, a quiet,\nprofessorial Southern gentleman type.\nTOM\nHey Martin.",
+            "...and really good teeth.\nTOM\nAnd those eyes... Just cause of\nthat, she can walk around like\nshe’s center of the universe?\nMCKENZIE\n(as explanation)\nWomen.\nTOM\nUgh. You know what? Fine. Whatever.\nI hope I don’t meet her.\nINT. ELEVATOR - LATER\n14\n33\nTom is listening to headphones. Summer enters the elevator\nand Tom actively puts on a show to ignore her. Summer hears\nthe music.\nSUMMER\nThe Smiths."
+        ]
+    },
+    {
+        "question": "Why does Summer want to stop seeing Tom?",
+        "expected_answer": "She thinks their relationship is not normal and they only argue",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "Tom doesn’t process this at first. He takes a step, still\nplanning to tell her about her view, before realizing the\nsignificance of what he’s seeing. Then he stops in his\ntracks.\nSummer sees Tom and puts it all together. Her face drops. She\npulls her hand away from her friends and walks over to him.\nSUMMER\nIt just happened!\nAnd he just races past her before she can stop him. The music\nbuilds...",
+            "And she can’t stop. She’s totally lost control.Yellow Revised 5/14/08 104\nTOM\n(trying himself not to\nlaugh)\nYou’re a crazy person!\nSUMMER\nYou’re the crazy person!\nTOM\nWhat are you talking about?!\nSUMMER\nOne day I’m reading “Dorian Gray”\nat the corner deli and this guy\nsits down and starts asking about\nit. Now he’s my husband!\nTOM\nThis is funny to you?\nSUMMER\nWhat would have happened if I went",
+            "Tom follows Summer in to the room. They take their seats.\nSoon enough, the giggles begin.\nSUMMER\n(whispers)\nPenis.\nTOM\nStop it!\nLATER. MILLIE marries her 70-something GROOM. 135136\n137\n138\n139\nYellow Revised 5/14/08 83\nMINISTER\nYou may kiss the bride.\nHe does. Deeply. Tom turns to Summer.\nTOM\nYou’re telling me you'll never want\nthat?\nSummer’s face is unreadable. She says nothing.",
+            "intimately, Summer leaves “Reality” alone as she flits around\nthe roof. Tom gets a drink. Smiles at a cute girl but has no\ninterest. Minds his business waiting for Summer’s return.\nOn the right, “Expectations” and Summer remain locked in a\nserious conversation. They don’t take their eyes off one\nanother. Summer plays with her hair. Their knees are almost\ntouching.",
+            "Summer!193\nYellow Revised 5/14/08 105\nShe stops and turns back. He takes in her face, most likely\nfor the last time ever.\nTOM\nI really do hope you’re happy.\nSUMMER\n(beat)\nI know.\nAnd she smiles and walks away. The CAMERA TRACKS AWAY with\nher, leaving Tom alone in the park. He gets smaller and\nfarther away with every second.\nFADE OUT.\nA FEW SECONDS OF BLACK.\nNARRATOR (V.0O.)"
+        ]
+    },
+    {
+        "question": "What is the name of the song quoted by Summer in her high school yearbook?",
+        "expected_answer": "A song by the Scottish band Belle & Sebastian",
+        "rag_answer": "To wit: in 1999, Summer quoted a song by the Scottish band Belle & Sebastian in her high school yearbook. The song is not explicitly mentioned, but it is referred to as a song by Belle & Sebastian.",
+        "retrieved_chunks": [
+            "INSERT - Summer’s High School Yearbook, littered with letters\nfrom classmates.27\n28\n29\n30\nYellow Revised 5/14/08 12\nNARRATOR\nTo wit: in 1999, Summer quoted a\nsong by the Scottish band Belle &\nSebastian in her high school\nyearbook.\nINSERT - Sales Chart of the LP “The Boy With the Arab 27\nStrap” by Region, showing an unusual spike in the greater\nMichigan area.\nNARRATOR",
+            "Hey! They said you weren’t coming.\nTOM\n(shocked)\nYou asked if I was --\nMCKENZIE\n(already drunk)\nGoddamn that song is brilliant!\nWhat’s up Hansen?\nSummer sees the next song come up on the screen.49\n50\nYellow Revised 5/14/08 26\nSUMMER\nOoh that’s me.\nShe downs a shot and jumps up on stage.\nSUMMER\n(into mic)\nOk. I’m the new girl so no making\nfun of me.",
+            "I don’t know. Who cares? I’m happy.\nAren’t you happy?\nTOM\nYeah.82\nYellow Revised 5/14/08 53\nSUMMER\nGood.\nTOM\n(beat)\nIt’s just...\nSUMMER\nOoh!\nSummer has noticed the song on the radio.\nSUMMER\nOh my god. We totally can’t talk\nduring this song.\nTom listens and Tom watches Summer listening. There’s\nsomething about this moment, the way she sings along, the way",
+            "LATER. Millie throws the bouquet. Summer catches it. She 140\nshows it to Tom and shrugs.\nLATER. Tom and Summer are at the bar. They do shots. 141\nTOM/SUMMER\n1. 2. 3. GO!\nTOM\nAhh. Good stuff. You wanna dance?Yellow Revised 5/14/08 85\nSUMMER\nsure.\nAnd so they do. The song is slow, Etta James’s “At Last”\n(which is free to use, by the way). The two of them don’t do",
+            "SUMMER (0.8.)\nHi Tom.\nTOM\n(mock surprise)\nOh wow, Summer, hey! Must have\nwalked right by you.\nSUMMER\nYeah.\nTOM\nAre you going to Millie’s?\nSUMMER\nYup. You too?\n(he nods, trying not to\nscream)\nIT love Millie. She’s the sweetest.\nTOM\nGod I totally forgot you knew her.\nSUMMER\nYeah. We... worked together all\nthat time.\nTOM\nRight. Yes. I remember now.\nSilence. What the hell do you say here?\nSUMMER"
+        ]
+    },
+    {
+        "question": "What is the name of the album by Belle & Sebastian that experiences a spike in sales in Michigan?",
+        "expected_answer": "The Boy With the Arab Strap",
+        "rag_answer": "\"The Boy With the Arab Strap\" by Belle & Sebastian experiences a spike in sales in Michigan.",
+        "retrieved_chunks": [
+            "INSERT - Summer’s High School Yearbook, littered with letters\nfrom classmates.27\n28\n29\n30\nYellow Revised 5/14/08 12\nNARRATOR\nTo wit: in 1999, Summer quoted a\nsong by the Scottish band Belle &\nSebastian in her high school\nyearbook.\nINSERT - Sales Chart of the LP “The Boy With the Arab 27\nStrap” by Region, showing an unusual spike in the greater\nMichigan area.\nNARRATOR",
+            "This spike in Michigan sales of\ntheir album “Boy With the Arab\nStrap” continues to puzzle industry\nanalysts.\n(-4779)\nINT COLLEGE CAMPUS - ICE CREAM PARLOR — DAY —- 16MM B&W 28\nSummer works as a dipper at a busy old timey campus creamery.\nNARRATOR\nSummer’s employment at Two Cents\nPlain during second semester\nsophomore year coincided with an\ninexplicable 212% increase in\nrevenue.",
+            "They’re Track 1.\nSUMMER\noh.\nTom shakes that off, grabs a Ringo Starr album and shows it\nto her, just as we’ve seen in the beginning. She smiles and\nthey continue on down the aisles.\nIn CU, Tom goes to hold Summer’s hand. But something happens.\nIt could be a total coincidence, but just as his hand\napproaches hers (in SLO-MO), she moves it away and keeps it",
+            "Her co-workers whistle and cheer her on. She takes a deep\nbreath as her song begins (something exceedingly awesome! )\nSummer starts to sing unabashed. Even her uncoolness is cool.\nTom is awed.\nLATER. Tom sits in the booth with McKenzie (doing a shot) 49\nas Summer chats with co-workers at another table. Tom can’t\nhelp but stare at Summer. She notices and waves. He smiles,",
+            "I know. I’m sorry.\nTOM\nWhat’s the matter?\nSUMMER\nIt’s nothing. I’m being ridiculous.\nTOM\n(not sure)\nOk.\nThey continue on.\nINT RECORD STORE - LATER 175\nTom and a much more in control Summer walk down the aisles.\nHe grabs a record.\nTOM\nIt pains me that we live in a world\nwhere no one’s ever heard of\nSpearmint.\nSUMMER\nI’ve never heard of them.\nTOM\nThey’re on that disc I made you.\n(beat)"
+        ]
+    },
+    {
+        "question": "Where does Summer work during her sophomore year of college?",
+        "expected_answer": "At Two Cents Plain, an old timey campus creamery",
+        "rag_answer": "Summer works at Two Cents Plain, a campus creamery, during her second semester sophomore year.",
+        "retrieved_chunks": [
+            "This spike in Michigan sales of\ntheir album “Boy With the Arab\nStrap” continues to puzzle industry\nanalysts.\n(-4779)\nINT COLLEGE CAMPUS - ICE CREAM PARLOR — DAY —- 16MM B&W 28\nSummer works as a dipper at a busy old timey campus creamery.\nNARRATOR\nSummer’s employment at Two Cents\nPlain during second semester\nsophomore year coincided with an\ninexplicable 212% increase in\nrevenue.",
+            "INSERT - Summer’s High School Yearbook, littered with letters\nfrom classmates.27\n28\n29\n30\nYellow Revised 5/14/08 12\nNARRATOR\nTo wit: in 1999, Summer quoted a\nsong by the Scottish band Belle &\nSebastian in her high school\nyearbook.\nINSERT - Sales Chart of the LP “The Boy With the Arab 27\nStrap” by Region, showing an unusual spike in the greater\nMichigan area.\nNARRATOR",
+            "hasn‘t. This is the first time. His eyes go wide and from\nthat moment on, he can’t take them off her.\nVANCE\n(to the table)\nEveryone this is Summer, my new\nassistant. Summer just moved here\nfrom...\nSUMMER\nMichigan.\nVANCE\nRight. Michigan. Well, Summer,\neveryone. Everyone, Summer. Excuse\nme, I have to take this.\nSUMMER\nNice to meet you all.25\n26\nYellow Revised 5/14/08 11",
+            "Her co-workers whistle and cheer her on. She takes a deep\nbreath as her song begins (something exceedingly awesome! )\nSummer starts to sing unabashed. Even her uncoolness is cool.\nTom is awed.\nLATER. Tom sits in the booth with McKenzie (doing a shot) 49\nas Summer chats with co-workers at another table. Tom can’t\nhelp but stare at Summer. She notices and waves. He smiles,",
+            "(brightens )\nHi.\nSummer makes some copies of her own at the neighboring\nmachine. Tom steals a glance but Summer is all business. Tom\nthinks about saying something more. Nothing comes. He goes\nback to copying. They are two people, making photocopies,\nnothing to see here.\nTOM\nThat was fun last --\nWhen suddenly, without his even noticing, SUMMER IS PRESSING"
+        ]
+    },
+    {
+        "question": "What is the percentage increase in revenue at Two Cents Plain when Summer works there?",
+        "expected_answer": "212%",
+        "rag_answer": "The revenue at Two Cents Plain increased by 212% when Summer worked there.",
+        "retrieved_chunks": [
+            "This spike in Michigan sales of\ntheir album “Boy With the Arab\nStrap” continues to puzzle industry\nanalysts.\n(-4779)\nINT COLLEGE CAMPUS - ICE CREAM PARLOR — DAY —- 16MM B&W 28\nSummer works as a dipper at a busy old timey campus creamery.\nNARRATOR\nSummer’s employment at Two Cents\nPlain during second semester\nsophomore year coincided with an\ninexplicable 212% increase in\nrevenue.",
+            "In between orders, Summer sneaks a taste of one of the\nflavors.\n(-3) INT APARTMENT -— DAY — 16MM B&W 29\nSummer is shown a vacant apartment by a SEEDY-LOOKING\nLANDLORD.\nNARRATOR\nEvery apartment Summer rented was\noffered at an average rate of 9.2%\nbelow market value.\n(-1) EXT/ INT CITY BUS - DAY - 16MM B&W 30\nSummer climbs on to a city bus during a busy morning.31\n32\nYellow Revised 5/14/08 13",
+            "(brightens )\nHi.\nSummer makes some copies of her own at the neighboring\nmachine. Tom steals a glance but Summer is all business. Tom\nthinks about saying something more. Nothing comes. He goes\nback to copying. They are two people, making photocopies,\nnothing to see here.\nTOM\nThat was fun last --\nWhen suddenly, without his even noticing, SUMMER IS PRESSING",
+            "Summer laughs. It’s adorable.\nTOM\nWhat happens when you’re bored\nagain?\nSUMMER\n(beat)\nGood question.\nThey both start to walk. CUT TO:\n35 INT OFFICE HALLWAY —- SAME\nSUMMER\nAnd you? Been working here long?\nTOM\nEh, you know, bout 4 or 5... years.\nSUMMER\nYears?! Jesus. So... you’ve always\nwanted to write greeting cards?\nTOM\nOh I don’t even want to do it now.Yellow Revised 5/14/08 17\nSUMMER",
+            "Tell me about em.Yellow Revised 5/14/08 63\nSUMMER\nOh no way.\nTOM\nWhy?\nSUMMER\nThere’s nothing to tell.\nTOM\nCome on, I’m interested.\nSUMMER\nYou wanna go there?\nTOM\nWhy not? I can take it.\nSUMMER\nAlright... well... there was Markus\nin high school.\n99 INSERT: Still photograph of MARKUS. Or at least how he 99\nappears in Tom’s mind. Arm cocked, about to throw the winning\ntouchdown pass.\n100 TOM 100"
+        ]
+    },
+    {
+        "question": "What is the average rate below market value that Summer pays for her apartments?",
+        "expected_answer": "9.2%",
+        "rag_answer": "Every apartment Summer rented was offered at an average rate of 9.2% below market value.",
+        "retrieved_chunks": [
+            "In between orders, Summer sneaks a taste of one of the\nflavors.\n(-3) INT APARTMENT -— DAY — 16MM B&W 29\nSummer is shown a vacant apartment by a SEEDY-LOOKING\nLANDLORD.\nNARRATOR\nEvery apartment Summer rented was\noffered at an average rate of 9.2%\nbelow market value.\n(-1) EXT/ INT CITY BUS - DAY - 16MM B&W 30\nSummer climbs on to a city bus during a busy morning.31\n32\nYellow Revised 5/14/08 13",
+            "INT SUMMER’S APARTMENT - SAME 158A\nSummer pulls “Expectations” into her apartment and shuts the\ndoor. They fall onto the bed. END SPLITSCREEN.\nINT STAIRWELL -— SAME 159\n“Reality” Tom comes running down the stairs and exits the\nbuilding.\nEXT SUMMER’S APARTMENT BUILDING — SAME 160\nTom storms out of the building.\nINT SUMMER’S APARTMENT — SAME 160A\nSummer calls after him from her apartment doorway.",
+            "158\nYellow Revised 5/14/08 88\nINT SUMMER’S APARTMENT - SAME 155\nBut then “Expectations” arrives first. Summer invites Tom\ninside. She gives him a huge embrace. She kisses him, right\nwhere the lips meet the cheek. Very close to a full-frontal\nlip kiss. (ECU the point of kiss contact).\n“Reality” arrives soon after. She comes over and gives him a",
+            "stairs.\nINT HALLWAY - OUTSIDE SUMMER'S APARTMENT —- SAME 92\nBy the time Tom gets up there, he’s a little winded. Summer\nmeets him in the doorway.\nSUMMER\nYes?\nTOM\n(beat)\nI can’t remember now.\nSUMMER\nI’m going to sleep.93\n94\n95\n96\n97\nYellow Revised 5/14/08\nTOM\nFine.\nSUMMER\nFine.\nBeat.\nTOM\nThis was very different in my head.\nSUMMER\nI bet you get that a lot.\n61",
+            "SUMMER\nI told you. I love Ringo.\nTOM\nYou're insane.\nSUMMER\nwhy?\nTOM\nCause nobody loves Ringo.\nSUMMER\nThat's what I love about him.\n'VAGIANT! /”\na great time.\n43\n69\n70\nand\n71\nSummer drags Tom into the curtained-off “Porn” section. She\npicks up a box, “Sweet and Shower.”\nSUMMER\n(flirtatious)\nThis got great reviews.72\n73\n74\n75\n76\nYellow Revised 5/14/08 44\nINT. TOM’S APARTMENT - LATER 72"
+        ]
+    },
+    {
+        "question": "How many double-takes does Summer average on her commute to work?",
+        "expected_answer": "18.4",
+        "rag_answer": "Summer averages 18.4 double-takes per day on her round-trip commute to work.",
+        "retrieved_chunks": [
+            "NARRATOR\nAnd her round-trip commute to work\naveraged 18.4 double-takes per day.\nSure enough, several MALE RIDERS and the DRIVER have to look\ntwice.\nNARRATOR\nIt was a rare quality, this “esprit\nspecial.” Rare, and yet something\nevery post-adolescent male has\nencountered at least once in their\nlives.\nEXT STREET - DAY - 16MM B&W 31\nSummer continues to ride her bicycle down the street.\nNARRATOR",
+            "two together so he can at least lounge but so far most\ndoubles are taken. He moves into:131\nYellow Revised 5/14/08 80\nINT TRAIN CAR #2 - SAME 131\nTom continues to look for a seat. So far nothing. Tom walks\nby one seat and sees Summer listening to her headphones. He\nkeeps walking.\nANGLE ON TOM. Fuck! Did that just happen? Is she really\nthere? He keeps walking. Probably wasn’t her. Just his",
+            "In between orders, Summer sneaks a taste of one of the\nflavors.\n(-3) INT APARTMENT -— DAY — 16MM B&W 29\nSummer is shown a vacant apartment by a SEEDY-LOOKING\nLANDLORD.\nNARRATOR\nEvery apartment Summer rented was\noffered at an average rate of 9.2%\nbelow market value.\n(-1) EXT/ INT CITY BUS - DAY - 16MM B&W 30\nSummer climbs on to a city bus during a busy morning.31\n32\nYellow Revised 5/14/08 13",
+            "(500) DAYS OF SUMMER\nby\nScott Neustadter\n&\nMichael H. Weber\nApril 16, 2008NOTE: THE FOLLOWING IS A WORK OF FICTION. ANY RESEMBLANCE TO\nPERSONS LIVING OR DEAD IS PURELY COINCIDENTAL.ESPECIALLY YOU JENNY BECKMAN.BITCH.FADE IN:\nA single number in parenthesis, exactly like so:\n(488)\nEXT. ANGELUS PLAZA — DOWNTOWN LOS ANGELES, CA — DAY 1\nAnd we’re looking at a MAN (20s) and a WOMAN (20s) ona",
+            "Summer takes “Expectations” Tom to the side so they can be\nalone.\nOn the left, Summer introduces “Reality” to a circle of seven\nor eight people. (NOTE: This is the scene we saw on p. 51-\n52). The party is actually quite large, with 30 or 40 people\nTom has never seen before in his life. Summer’s friends,\nwithout him.\nWhile “Expectations” and Summer continue to talk 157"
+        ]
+    },
+    {
+        "question": "What is the name of the holiday idea presented by McKenzie?",
+        "expected_answer": "Other Mother's Day",
+        "rag_answer": "Other Mother's Day.",
+        "retrieved_chunks": [
+            "conservative, right-wing neo-Nazis\nat Hallmark, maybe playing it safe\nis the wrong approach. The nuclear\nfamily is dead and we need a new\nholiday to recognize that.\nMcKenzie holds up a home-made photoshopped family portrait of\nMartina Navratilova, Ellen DeGeneres, and the kid from “Jerry\nMaguire”.\nMCKENZIE\nMay 2lst. Other Mother’s Day.\nThe co-workers nod and digest this idea. VANCE is the head of",
+            "the department.\nVANCE\nHmmm. That’s an intriguing idea\nMcKenzie. Along with Grossman’s\n“Magellan Day” I'd say we’ve got\nsome potential here. What do you\nthink Hansen? Could you write up\nsome prototypes for these?\nTom is about to answer when... the door opens.\nSUMMER\nExcuse me, Mr. Vance? There’s a\ncall for you on line 3.\nAnd in walks this girl. Summer. We’ve met her by now but Tom",
+            "ANGLE ON McKenzie, wasted, singing the shit out of something\npatriotic. At any minute he might start to cry.\nMCKENZIE\n“And I’d proudly stand UP!”\n(aggressive drunk)\nI said stand!\nBACK ON TOM and SUMMER, seeing McKenzie start to lose it.\nTOM\nHere we go.55\nYellow Revised 5/14/08 31\nEXT KARAOKE BAR — LATER 55\nTom helps a nearly comatose McKenzie exit the place. Summer\nis with them.\nSUMMER\n(laughing)",
+            "from her. McKenzie maneuvers to look over Tom’s shoulder. As\nhe reads:\nSUMMER (V.O.)\nSo great to hear from you. I can’t\nthis week but maybe next? I hope\nthis means you’re ready to be fr--\nOn that word again, the sound slows down to reinforce its\npower. THE SCENE FREEZES AND WE QUICK ZOOM in on Tom’s face.\nHearing “friends” is like a punch in the gut. RESUME NORMAL",
+            "Tom looks over to where Summer sits. And the realization\ndawns on him...\nINT KARAOKE BAR — NIGHT 48\nSummer is in a back booth with some co-workers when Tom walks\nin to the crowded place. McKenzie has the microphone and he’s\nsinging some treacly 80s hair metal ballad. He’s real into it\nand, well, it’s kinda sad. Tom waves to McKenzie and walks\nover to the booth.\nTOM\nHi.\nSUMMER"
+        ]
+    },
+    {
+        "question": "What is the name of the head of the department where Tom works?",
+        "expected_answer": "Vance",
+        "rag_answer": "Mr. Vance is the head of the department where Tom works.",
+        "retrieved_chunks": [
+            "Tom sits with his feet up on a table, headphones on his ears,\nreading one of many Taschen books on innovative building\ndesign.\nINT TOM’S BEDROOM —- LATER 181A\nWe now see a list of names on the chalkboard. These are\narchitecture firms. Tom has a phone in one hand, is sketching\nsomething new with the other.\nINT OFFICE LOBBY —- DAY 182\nTom drops off his portfolio with the security guard in the",
+            "No one knows what the hell he just said except for one\nEmployee who bursts out in tears of joy.\nINT WEDDINGS AND ANNIVERSARIES SUITE —- LATER 117\nAll of the people who work in here are MIDDLE AGED WOMEN.\nCurrently, they are standing around one desk where Tom sits\nhelping everyone with their cards.\nMILLIE\nWe’ve been stuck on this for an\nhour.\nTom looks it over. Thinks.\nTOM",
+            "the department.\nVANCE\nHmmm. That’s an intriguing idea\nMcKenzie. Along with Grossman’s\n“Magellan Day” I'd say we’ve got\nsome potential here. What do you\nthink Hansen? Could you write up\nsome prototypes for these?\nTom is about to answer when... the door opens.\nSUMMER\nExcuse me, Mr. Vance? There’s a\ncall for you on line 3.\nAnd in walks this girl. Summer. We’ve met her by now but Tom",
+            "LATER. Tom is staring off in the direction of Summer’s 65\noffice.\nREVEAL a NEW SECRETARY sitting there.\nThe New Secretary is more than a little skeeved out by Tom’s\nstare.Yellow Revised 5/14/08 40A\nSFX: a “New Message” chime. Tom gets excited. He’s been\nwaiting for this.\nANGLE ON THE COMPUTER -- it’s just spam. Tom balls his fist\nin anger. Totally stressed. McKenzie pops up from his\nstation.",
+            "Tom. Mr. Vance would like to see\nyou in his office?\nINT VANCE’S OFFICE - DAY 114\nTom has been called into the Principal’s office.\nVANCE\nSit down, Tom.\n(he does)\nHas something happened to you\nrecently?\nTOM\nWhat do you mean?\nVANCE\nA death in the family, someone\ntaken ill...anything like that?\nTOM\nNo.\nVANCE\nLook, I don’t mean to pry. Does\nthis have something to do with\nSummer leaving.\nTOM"
+        ]
+    },
+    {
+        "question": "What is Tom's initial impression of Summer?",
+        "expected_answer": "Tom thinks Summer is pretty, but also believes she might be an 'uppity, better than everyone, superskank' based on what McKenzie tells him.",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "writes on summers forearm. Summer looks directly at the\ncamera with a face that says “help me god.”\nINT TOM’S BEDROOM - NIGHT - (FROM DAY 31) 124\nFrom the scene in which Tom and Summer first slept together.\nHe’s sleeping like a baby, probably the best sleep he’s had\nin a long while. Summer lies next to him. Wide awake.\nUnfulfilled.\nINT ELEVATOR -— DAY - (FROM DAY 22) 125",
+            "Tom doesn’t process this at first. He takes a step, still\nplanning to tell her about her view, before realizing the\nsignificance of what he’s seeing. Then he stops in his\ntracks.\nSummer sees Tom and puts it all together. Her face drops. She\npulls her hand away from her friends and walks over to him.\nSUMMER\nIt just happened!\nAnd he just races past her before she can stop him. The music\nbuilds...",
+            "Summer gives him a pen from her purse and the underside of\nher arm. Tom thinks about this. Then he starts to draw a\nsketch on her skin. We catch her watching his face as he\ndraws. She’s attracted to his enthusiasm.\nTOM\nSo we start with this, right\nhere...\n(PRODUCTION NOTE: Put AUTUMN somewhere subtle in the\nbackground. )\n(109) INT SUMMER’S APARTMENT - NIGHT 77",
+            "Summer takes “Expectations” Tom to the side so they can be\nalone.\nOn the left, Summer introduces “Reality” to a circle of seven\nor eight people. (NOTE: This is the scene we saw on p. 51-\n52). The party is actually quite large, with 30 or 40 people\nTom has never seen before in his life. Summer’s friends,\nwithout him.\nWhile “Expectations” and Summer continue to talk 157",
+            "collapse onto the bed, laughing.\nSUMMER\nThis is fun. You’re fun.\nTOM\nThanks.\nSUMMER\nI mean, I just want to say, up\nfront, I’m not looking for anything\nserious.\nTom is a little surprised. The tone of the conversation\nswitches gears a bit.\nSUMMER\nAre you cool with that?\nTOM\n(unconvincing)\nOh yeah.\nSUMMER\nIt freaks some guys out when I say\nthat.\nTOM\n(still confused)\nNot me.\nSUMMER\nYou sure?\nTOM"
+        ]
+    },
+    {
+        "question": "What music does Summer like?",
+        "expected_answer": "Summer likes The Smiths.",
+        "rag_answer": "Summer likes The Smiths.",
+        "retrieved_chunks": [
+            "much talking but there’s a lot of thinking going on. And\nthen:\nSUMMER\nI was wondering...\nTOM\nHmm?\nSUMMER\nI might have a party on Friday.\nThere’‘s this really nice roof deck\nthat no one uses. Would you\nwanna...?\nTOM\nI’d like that.\nAnd then the song ends. Tom is about to leave.\nSUMMER\nDon’t go.\nAnd then a fast song begins to play.\nTOM\nNo way Jose. I never dance fast.\nSummer steps up to him.\nSUMMER",
+            "Tom, pretending not to hear or care, gives her an\nunenthusiastic wave.Yellow Revised 5/14/08 15\nSUMMER\nI love The Smiths.\nTom, still pretending, takes off his headphones.\nTOM\nSorry?\nSUMMER\nI said. I love The Smiths. You have\ngood taste in music.\nA beat as Tom processes this information.\nTOM\n(amazed)\nYou like the Smiths?\nSUMMER\n(singing)\n\"To die by your side is such a",
+            "I don’t know. Who cares? I’m happy.\nAren’t you happy?\nTOM\nYeah.82\nYellow Revised 5/14/08 53\nSUMMER\nGood.\nTOM\n(beat)\nIt’s just...\nSUMMER\nOoh!\nSummer has noticed the song on the radio.\nSUMMER\nOh my god. We totally can’t talk\nduring this song.\nTom listens and Tom watches Summer listening. There’s\nsomething about this moment, the way she sings along, the way",
+            "and Summer walk out of a movie theatre.\nRECORD STORE - EARLIER THAT DAY 16\nand Summer shop for music. Tom excitedly shows Summer a\nRingo Starr solo album.\nINT\nINT\nTom\nTOM’S PLACE - SAME 17\nRACHEL\nAnd then what?\nDINER - EARLIER THAT NIGHT 18\nand Summer in a booth ordering dinner.19\n20\n21\nINT TOM’S\nINT DINER\nINT TOM’S\nYellow Revised 5/14/08\nTOM\n(to WAITRESS)\nYou know...let’s go crazy, I’1l",
+            "SUMMER\n(re: singing)\nI nominate Young Werther here.\nTOM\nNooo. I don’t sing in public.\nSUMMER\nSure you do. You lip-synch to your\nheadphones every morning.\nTOM\nI don’t...\nMCKENZIE\nYou really do.\nSUMMER\nIt’s ok. I like it. Takes a lot of\nself-confidence to look ridiculous.\nTOM\nRidiculous?!\n(her smile disarms him)\n(MORE )\nBACK TO:\n51\n5253\n54\nYellow Revised 5/14/08 30\nTOM (cont'd)"
+        ]
+    },
+    {
+        "question": "What is Tom's occupation?",
+        "expected_answer": "Tom works as a greeting card writer.",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "Tom sits with his feet up on a table, headphones on his ears,\nreading one of many Taschen books on innovative building\ndesign.\nINT TOM’S BEDROOM —- LATER 181A\nWe now see a list of names on the chalkboard. These are\narchitecture firms. Tom has a phone in one hand, is sketching\nsomething new with the other.\nINT OFFICE LOBBY —- DAY 182\nTom drops off his portfolio with the security guard in the",
+            "You did the right thing. Where is\nhe?\n3AYellow Revised 5/14/08 4\nTom is in the kitchen breaking things and basically going\nnuts.\nAs he does, we should notice a few things about his place.\nOne, though it isn’t big, it is organized by a master. Two,\non the walls, is a series of framed portraits, each one a\nfamous building and its architectural blueprint. As we’ll",
+            "No one knows what the hell he just said except for one\nEmployee who bursts out in tears of joy.\nINT WEDDINGS AND ANNIVERSARIES SUITE —- LATER 117\nAll of the people who work in here are MIDDLE AGED WOMEN.\nCurrently, they are standing around one desk where Tom sits\nhelping everyone with their cards.\nMILLIE\nWe’ve been stuck on this for an\nhour.\nTom looks it over. Thinks.\nTOM",
+            "soon learn, Tom has a big interest in architecture.\nAbout to smash a plate on the floor, he’s interrupted by:\nGIRL\nThomas.\nTom freezes.\nTOM\nRachel? What are you doing here?\nRachel is Tom’s 12-year old half-sister.\nRACHEL\nI’m here to help you.\nTOM\nHelp me how?\nRACHEL\nFirst, put down the plate.\nCUT TO:\nINT TOM’S APARTMENT - LATER 11\nTom sits next to Rachel. Paul and Mckenzie sit on either side",
+            "Tom. Mr. Vance would like to see\nyou in his office?\nINT VANCE’S OFFICE - DAY 114\nTom has been called into the Principal’s office.\nVANCE\nSit down, Tom.\n(he does)\nHas something happened to you\nrecently?\nTOM\nWhat do you mean?\nVANCE\nA death in the family, someone\ntaken ill...anything like that?\nTOM\nNo.\nVANCE\nLook, I don’t mean to pry. Does\nthis have something to do with\nSummer leaving.\nTOM"
+        ]
+    },
+    {
+        "question": "What did Tom study to be?",
+        "expected_answer": "Tom studied to be an architect.",
+        "rag_answer": "Tom studied to be an architect.",
+        "retrieved_chunks": [
+            "(laughs, it’s still\namazing)\nMaybe you should do something else.\nTOM\nYeah. I studied to be an architect,\nactually.\nSUMMER\nThat’s cool! What happened?\nTOM\nDidn‘t work out. Needed a job. Here\nwe are.\nSUMMER\nYou any good?\nTOM\n(points to a framed card)\nWell I wrote that one.\nSUMMER\n(reading)\n\"Today You’re a Man. Mazel Tov on\nyour Bar Mitzvah.”\nTOM\nIt’s a big seller.\nSUMMER",
+            "If Tom had learned anything... it\nwas that you shouldn't ascribe\ngreat cosmic significance to a\nsimple earthly event.\nAND THEN WE FADE\nTHE FUCK BACK\nIN:\n(500) INT OFFICE WAITING AREA — DAY 193\nTom, ina suit, with a hefty batch of architecture sketches\nat his side, waits in the foyer of Allen, Prince, and Gethers\nArchitecture, a cool indie firm in the city that operates out",
+            "soon learn, Tom has a big interest in architecture.\nAbout to smash a plate on the floor, he’s interrupted by:\nGIRL\nThomas.\nTom freezes.\nTOM\nRachel? What are you doing here?\nRachel is Tom’s 12-year old half-sister.\nRACHEL\nI’m here to help you.\nTOM\nHelp me how?\nRACHEL\nFirst, put down the plate.\nCUT TO:\nINT TOM’S APARTMENT - LATER 11\nTom sits next to Rachel. Paul and Mckenzie sit on either side",
+            "You did the right thing. Where is\nhe?\n3AYellow Revised 5/14/08 4\nTom is in the kitchen breaking things and basically going\nnuts.\nAs he does, we should notice a few things about his place.\nOne, though it isn’t big, it is organized by a master. Two,\non the walls, is a series of framed portraits, each one a\nfamous building and its architectural blueprint. As we’ll",
+            "Tom sits with his feet up on a table, headphones on his ears,\nreading one of many Taschen books on innovative building\ndesign.\nINT TOM’S BEDROOM —- LATER 181A\nWe now see a list of names on the chalkboard. These are\narchitecture firms. Tom has a phone in one hand, is sketching\nsomething new with the other.\nINT OFFICE LOBBY —- DAY 182\nTom drops off his portfolio with the security guard in the"
+        ]
+    },
+    {
+        "question": "Why did Tom give up on his architecture dreams?",
+        "expected_answer": "Tom gave up on his architecture dreams because it 'didn't work out' and he needed a job.",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "If Tom had learned anything... it\nwas that you shouldn't ascribe\ngreat cosmic significance to a\nsimple earthly event.\nAND THEN WE FADE\nTHE FUCK BACK\nIN:\n(500) INT OFFICE WAITING AREA — DAY 193\nTom, ina suit, with a hefty batch of architecture sketches\nat his side, waits in the foyer of Allen, Prince, and Gethers\nArchitecture, a cool indie firm in the city that operates out",
+            "Anyway, I should get back.\nTOM\nOok, well, I’1ll see you around.\nShe walks back to her cubicle at the other end of the hall.\nTom watches her walk away, completely enamored.\nHe sits down at his desk and sets out to work. His eyes fall\non a sketch of a house (dated 2001), which is the only\narchitecture sketch on his wall. Tom has some mojo and starts",
+            "AGAINST HIM. And then they’re kissing. And it’s unbelievable.\nThere‘s a few seconds where Tom isn’t sure if he’s dreaming\nor not. But then he realizes, just like that... somehow he’s\nliving his best case scenario.\n57 INT TOM’S PLACE - THAT NIGHT 57\nTom answers the door. It’s Paul (in hospital scrubs).\nPAUL\nYou son of a bitch.\nHe walks inside without waiting for an invite.\nTOM\n(anxious )\nShhh.",
+            "Tom sits with his feet up on a table, headphones on his ears,\nreading one of many Taschen books on innovative building\ndesign.\nINT TOM’S BEDROOM —- LATER 181A\nWe now see a list of names on the chalkboard. These are\narchitecture firms. Tom has a phone in one hand, is sketching\nsomething new with the other.\nINT OFFICE LOBBY —- DAY 182\nTom drops off his portfolio with the security guard in the",
+            "soon learn, Tom has a big interest in architecture.\nAbout to smash a plate on the floor, he’s interrupted by:\nGIRL\nThomas.\nTom freezes.\nTOM\nRachel? What are you doing here?\nRachel is Tom’s 12-year old half-sister.\nRACHEL\nI’m here to help you.\nTOM\nHelp me how?\nRACHEL\nFirst, put down the plate.\nCUT TO:\nINT TOM’S APARTMENT - LATER 11\nTom sits next to Rachel. Paul and Mckenzie sit on either side"
+        ]
+    },
+    {
+        "question": "What is the name of the song Tom hears when he thinks of Summer?",
+        "expected_answer": "The screenplay does not specify the name of the song, only that it is an 'over-the-top romantic song'.",
+        "rag_answer": "No information available in the provided context.",
+        "retrieved_chunks": [
+            "I don’t know. Who cares? I’m happy.\nAren’t you happy?\nTOM\nYeah.82\nYellow Revised 5/14/08 53\nSUMMER\nGood.\nTOM\n(beat)\nIt’s just...\nSUMMER\nOoh!\nSummer has noticed the song on the radio.\nSUMMER\nOh my god. We totally can’t talk\nduring this song.\nTom listens and Tom watches Summer listening. There’s\nsomething about this moment, the way she sings along, the way",
+            "But Tom is quick. He covers her mouth with his. And on Tom\nand Summer, kissing, laughing, rolling around on the ground,\nwe hear:\nMAN’S VOICE (V.O.)\n(in French w/ Subtitles)\n\"Misery. Loneliness. Pain.”\nMUSIC CUE: A MELODRAMATIC INSTRUMENTAL which plays over the\nfollowing:Yellow Revised 5/14/08 67\n106 OMITTED 106\n107 OMITTED 107Yellow Revised 5/14/08 68\n108 OMITTED 108\n109 OMITTED 109",
+            "Tom doesn’t process this at first. He takes a step, still\nplanning to tell her about her view, before realizing the\nsignificance of what he’s seeing. Then he stops in his\ntracks.\nSummer sees Tom and puts it all together. Her face drops. She\npulls her hand away from her friends and walks over to him.\nSUMMER\nIt just happened!\nAnd he just races past her before she can stop him. The music\nbuilds...",
+            "Tom, pretending not to hear or care, gives her an\nunenthusiastic wave.Yellow Revised 5/14/08 15\nSUMMER\nI love The Smiths.\nTom, still pretending, takes off his headphones.\nTOM\nSorry?\nSUMMER\nI said. I love The Smiths. You have\ngood taste in music.\nA beat as Tom processes this information.\nTOM\n(amazed)\nYou like the Smiths?\nSUMMER\n(singing)\n\"To die by your side is such a",
+            "much talking but there’s a lot of thinking going on. And\nthen:\nSUMMER\nI was wondering...\nTOM\nHmm?\nSUMMER\nI might have a party on Friday.\nThere’‘s this really nice roof deck\nthat no one uses. Would you\nwanna...?\nTOM\nI’d like that.\nAnd then the song ends. Tom is about to leave.\nSUMMER\nDon’t go.\nAnd then a fast song begins to play.\nTOM\nNo way Jose. I never dance fast.\nSummer steps up to him.\nSUMMER"
+        ]
+    },
+    {
+        "question": "What does Tom love about Summer?",
+        "expected_answer": "Tom loves many things about Summer, including her smile, hair, knees, eyes, and the sound of her laugh.",
+        "rag_answer": "Tom loves Summer's smile and her. He also loves that she loves Ringo.",
+        "retrieved_chunks": [
+            "SUMMER\nI told you. I love Ringo.\nTOM\nYou're insane.\nSUMMER\nwhy?\nTOM\nCause nobody loves Ringo.\nSUMMER\nThat's what I love about him.\n'VAGIANT! /”\na great time.\n43\n69\n70\nand\n71\nSummer drags Tom into the curtained-off “Porn” section. She\npicks up a box, “Sweet and Shower.”\nSUMMER\n(flirtatious)\nThis got great reviews.72\n73\n74\n75\n76\nYellow Revised 5/14/08 44\nINT. TOM’S APARTMENT - LATER 72",
+            "a new one. He makes a few moves with the pencil. Looks it\nover. And COMPLETELY ERASES WHAT HE DREW. He goes back to his\n“real work.”\n(154)\nEXT SIDEWALK — DAY 36\nTom walks alongside his friend PAUL. Nonchalantly, he says:\nTOM\nIt’s official. I’m in love with\nsummer.\nPaul looks at Tom, horrified.\nCUT TO:\nCU — SUMMER’S SMILE 37\nTOM (V.O.)\nI love her smile.\nCU — SUMMER’S HAIR\nTOM (V.O.)",
+            "Here’s what I would say...\nTom sees the side of Summer’s face across the room.\nTOM\n“T. Love. Us.”\n(beat)\nWhat do you think?\nMILLIE\n(clutching her heart)\nIt’s beautiful.\nThe Women are so moved they might faint.\nINT OFFICE HALLWAY - LATER 118\nTom passes Summer at her desk. She waves. He waves back. He’s\nso in love with her.\n(306)\nEXT. DOWNTOWN STREET - DAY 119",
+            "what can I say, I really liked her.\nSUMMER\nYou lLoooved her.\nTOM\n(re: back of his hand)\nDon’t make me use this.\nSUMMER\nBring it!\nTom tickles her. She squirms out of it. They return to\nposition.\nTOM\nI thought I loved her. Now I don’t\nknow.\nSilence. Tom decides to change the subject. Sort of.\nTOM\nWhat about you? You ever even have\na “boyfriend?”\nSUMMER\nWell... yeah, of course.\nTOM",
+            "SUMMER\nAs a friend.\nTOM\nRight. As a friend.\nSUMMER\nJust as a friend?\nThe wheels are spinning in Tom’s head. What’s the right\nanswer here?\nTOM\nYes. I mean... I haven’t really\nthought about... Yes. Why?\nSUMMER\nNothing. I just... You’re\ninteresting. I’d like us to be\nfriends. Is that ok?\nTom hides his disappointment the best he can.\nTOM\nOh yeah totally. Friends. You and\nme. That’s... perfect.\nSUMMER"
+        ]
+    }
+]
