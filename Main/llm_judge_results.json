@@ -1,0 +1,479 @@
+[
+    {
+        "question": "What is the name of the boy in the story?",
+        "rag_answer": "Tom.",
+        "expected_answer": "Tom Hansen",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer 'Tom' is supported by the retrieved context, addresses the question, and has the same meaning as the expected answer 'Tom Hansen'."
+    },
+    {
+        "question": "Where is Tom from?",
+        "rag_answer": "Tom is from New Jersey, but he lived there until he was 12.",
+        "expected_answer": "Margate, New Jersey",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.8,
+        "reason": "Tom lived in New Jersey until he was 12, but the answer does not specify the exact town of Margate, which is mentioned in the expected answer."
+    },
+    {
+        "question": "What is the name of the girl in the story?",
+        "rag_answer": "The name of the girl in the story is Summer.",
+        "expected_answer": "Summer Finn",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The answer 'The name of the girl in the story is Summer' does not match the expected answer 'Summer Finn' in terms of semantic meaning."
+    },
+    {
+        "question": "Where is Summer from?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "Shinnecock, Michigan",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention Summer's hometown or place of origin, only her current location in LA and her past locations."
+    },
+    {
+        "question": "What does Tom believe in?",
+        "rag_answer": "Tom believes in the idea that everything people believe in, such as destiny, soulmates, and true love, is \"complete and utter bullshit.\"",
+        "expected_answer": "True love",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Tom explicitly states that true love is 'bullshit', but the context suggests he's being sarcastic and actually believes in it."
+    },
+    {
+        "question": "What is Summer's attitude towards love?",
+        "rag_answer": "Summer is skeptical about love, having been in relationships before and seeing most marriages end in divorce. She believes that relationships are messy and feelings get hurt, and thinks that they should focus on having fun and leaving the serious stuff for later.",
+        "expected_answer": "She does not believe in it",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Summer's skepticism about love is evident in her past experiences and her views on relationships."
+    },
+    {
+        "question": "What is Tom's occupation?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "He works at a greeting card company",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Tom is seen helping people with their cards in a workplace, which is a greeting card company, and is also seen in an office environment, suggesting he works there."
+    },
+    {
+        "question": "What is Summer's job?",
+        "rag_answer": "Summer works as a dipper at a busy old timey campus creamery, and also takes messages and works in a cubicle, suggesting she may have a part-time or administrative job.",
+        "expected_answer": "She is an assistant to Mr. Vance",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.7,
+        "reason": "The answer partially matches the expected answer, but it does not provide the exact job title. It also mentions her part-time job as a dipper, which is not relevant to the expected answer."
+    },
+    {
+        "question": "How does Tom meet Summer?",
+        "rag_answer": "Tom meets Summer on June the 8th. He knows almost immediately that she's who he's been searching for.",
+        "expected_answer": "At work, when Summer is introduced as the new assistant",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.8,
+        "reason": "The answer is supported by the context, but it doesn't exactly match the expected answer. The context mentions that Tom meets Summer at work, but it doesn't specifically mention that she's introduced as the new assistant."
+    },
+    {
+        "question": "What is the date when Tom meets Summer?",
+        "rag_answer": "Tom meets Summer on June the 8th.",
+        "expected_answer": "June 8th",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and has the same meaning as the expected answer, but it includes the name 'Tom' which is not required in the expected answer."
+    },
+    {
+        "question": "What is the name of Tom's half-sister?",
+        "rag_answer": "Rachel is Tom's 12-year-old half-sister.",
+        "expected_answer": "Rachel",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a partial name (Rachel is Tom's half-sister, but her full name is not mentioned)."
+    },
+    {
+        "question": "Why does Summer want to stop seeing Tom?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "She thinks their relationship is not normal and they only argue",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not directly address Summer's concerns about their relationship."
+    },
+    {
+        "question": "What is the name of the song quoted by Summer in her high school yearbook?",
+        "rag_answer": "A song by the Scottish band Belle & Sebastian was quoted by Summer in her high school yearbook.",
+        "expected_answer": "A song by the Scottish band Belle & Sebastian",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context, addresses the question, and has the same meaning as the expected answer, but it's a bit shorter than the expected answer."
+    },
+    {
+        "question": "What is the name of the album by Belle & Sebastian that experiences a spike in sales in Michigan?",
+        "rag_answer": "\"The Boy With the Arab Strap\" by Belle & Sebastian experiences a spike in sales in Michigan.",
+        "expected_answer": "The Boy With the Arab Strap",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a partial name and not the full title."
+    },
+    {
+        "question": "Where does Summer work during her sophomore year of college?",
+        "rag_answer": "Summer works at Two Cents Plain, an old-timey campus creamery, during her sophomore year of college.",
+        "expected_answer": "At Two Cents Plain, an old timey campus creamery",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a bit shorter than the expected answer."
+    },
+    {
+        "question": "What is the percentage increase in revenue at Two Cents Plain when Summer works there?",
+        "rag_answer": "The revenue at Two Cents Plain increased by 212% when Summer worked there.",
+        "expected_answer": "212%",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and has the same meaning as the expected answer, but it's a direct quote rather than a paraphrased answer."
+    },
+    {
+        "question": "What is the average rate below market value that Summer pays for her apartments?",
+        "rag_answer": "Every apartment Summer rented was offered at an average rate of 9.2% below market value.",
+        "expected_answer": "9.2%",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer directly addresses the question and has the same meaning as the expected answer, but it's a direct quote from the retrieved context rather than a paraphrased answer."
+    },
+    {
+        "question": "How many double-takes does Summer average on her commute to work?",
+        "rag_answer": "Summer averages 18.4 double-takes per day on her round-trip commute to work.",
+        "expected_answer": "18.4",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context, addresses the question, and has the same meaning as the expected answer, but it's a direct quote from the text."
+    },
+    {
+        "question": "What is the name of the holiday idea presented by McKenzie?",
+        "rag_answer": "Other Mother's Day.",
+        "expected_answer": "Other Mother's Day",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The answer is supported by the retrieved context and has the same meaning as the expected answer."
+    },
+    {
+        "question": "What is the name of the head of the department where Tom works?",
+        "rag_answer": "Mr. Vance is the head of the department where Tom works.",
+        "expected_answer": "Vance",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the context, addresses the question, and has the same meaning as the expected answer, but it's not an exact match."
+    },
+    {
+        "question": "What is Tom's initial impression of Summer?",
+        "rag_answer": "Tom's initial impression of Summer is not explicitly stated in the retrieved context. However, it can be inferred that he is surprised and possibly intimidated by her party and friends, as indicated by the line \"Tom has never seen before in his life. Summer's friends, without him.\"",
+        "expected_answer": "Tom thinks Summer is pretty, but also believes she might be an 'uppity, better than everyone, superskank' based on what McKenzie tells him.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The retrieved context does not explicitly mention Tom's initial impression of Summer. However, it can be inferred that he is surprised and possibly intimidated by her party and friends."
+    },
+    {
+        "question": "What music does Summer like?",
+        "rag_answer": "Summer likes The Smiths.",
+        "expected_answer": "Summer likes The Smiths.",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The answer is supported by the retrieved context and has the same meaning as the expected answer."
+    },
+    {
+        "question": "What did Tom study to be?",
+        "rag_answer": "Tom studied to be an architect.",
+        "expected_answer": "Tom studied to be an architect.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a direct quote from the text."
+    },
+    {
+        "question": "Why did Tom give up on his architecture dreams?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "Tom gave up on his architecture dreams because it 'didn't work out' and he needed a job.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention Tom giving up on his architecture dreams, nor does it explain why he might have done so."
+    },
+    {
+        "question": "What is the name of the song Tom hears when he thinks of Summer?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "The screenplay does not specify the name of the song, only that it is an 'over-the-top romantic song'.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The screenplay does not specify the name of the song, only that it is an 'over-the-top romantic song'."
+    },
+    {
+        "question": "What does Tom love about Summer?",
+        "rag_answer": "Tom loves Summer's smile and her. He also loves that she loves Ringo.",
+        "expected_answer": "Tom loves many things about Summer, including her smile, hair, knees, eyes, and the sound of her laugh.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The answer does not address the question and is unsupported by the retrieved context."
+    },
+    {
+        "question": "What is Summer's attitude towards relationships?",
+        "rag_answer": "Summer seems to be skeptical about relationships, as evidenced by her past experiences and her parents' divorce. She also appears to be somewhat casual about her own relationship, as seen when she reveals she's engaged without initially telling Tom.",
+        "expected_answer": "Summer does not want to be in a relationship, preferring to be free and independent.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Summer's past experiences, her parents' divorce, and her casual attitude towards her engagement suggest she does not want to be in a relationship, preferring to be free and independent."
+    },
+    {
+        "question": "Why does Tom go to the karaoke bar?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "Tom goes to the karaoke bar because the whole office is going, and he wants to see Summer.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention the whole office going to the karaoke bar, only McKenzie inviting Tom."
+    },
+    {
+        "question": "What song does Summer sing at the karaoke bar?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "The screenplay does not specify the name of the song Summer sings, only that it is 'something exceedingly awesome'.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The screenplay does not specify the name of the song Summer sings, only that it is 'something exceedingly awesome'."
+    },
+    {
+        "question": "What is the name of Summer's cat?",
+        "rag_answer": "Bruce.",
+        "expected_answer": "Summer's cat is named Bruce, after Springsteen.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a partial name (Bruce) instead of the full name (Bruce Springsteen)."
+    },
+    {
+        "question": "Why does Tom get disappointed at the karaoke bar?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "Tom gets disappointed when Summer notices him staring at her, but does not come over to talk to him.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention Summer noticing Tom staring at her, so the answer is unsupported."
+    },
+    {
+        "question": "What does McKenzie think about Summer's attitude towards relationships?",
+        "rag_answer": "McKenzie thinks Summer's attitude towards relationships is selfish and doesn't understand why she wouldn't want to be in a relationship. He also thinks she wasn't that special when she was with Tom, suggesting he doesn't value her feelings or connection with Tom.",
+        "expected_answer": "McKenzie thinks Summer is 'a dude' because of her attitude towards relationships.",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.7,
+        "reason": "McKenzie thinks Summer's attitude towards relationships is selfish and doesn't understand why she wouldn't want to be in a relationship, but the retrieved context does not explicitly state that he thinks she's a dude, it's more of an insult he uses to express his confusion."
+    },
+    {
+        "question": "What is Summer's response to Tom's question about falling in love?",
+        "rag_answer": "It's \"It just happened!\"",
+        "expected_answer": "Summer laughs and questions the concept of love, saying she has never seen it in her past relationships.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The answer 'It just happened!' does not address the question about falling in love, and it does not have the same meaning as the expected answer."
+    },
+    {
+        "question": "What is the occasion for the office party?",
+        "rag_answer": "Millie's engagement is the occasion for the office party.",
+        "expected_answer": "The office party is for Millie's engagement.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer accurately describes the occasion for the office party, but does not include the specific detail of Millie's name."
+    },
+    {
+        "question": "What is Tom's relationship like with his friend Paul?",
+        "rag_answer": "Tom's relationship with his friend Paul is close and intimate, as evidenced by their kiss in the scene. They also seem to be able to be honest and open with each other, as seen in their conversation about Tom's feelings for Summer.",
+        "expected_answer": "Tom and Paul appear to be close friends, with Paul being supportive but also honest with Tom about his feelings for Summer.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Tom's relationship with his friend Paul is close and intimate, with Paul being supportive but also honest with Tom about his feelings for Summer."
+    },
+    {
+        "question": "What is the name of the cafe where Tom and his friends hang out?",
+        "rag_answer": "The name of the cafe where Tom and his friends hang out is Pacman Cafe.",
+        "expected_answer": "The cafe is called the Pacman Cafe.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a direct quote rather than a paraphrased answer."
+    },
+    {
+        "question": "What is Tom's attitude towards being alone?",
+        "rag_answer": "Tom's attitude towards being alone is complex. At first, he seems to be uncomfortable with it, as seen in the line \"I'm completely, utterly, alone\" and \"He wondered if anyone else had made it this far.\" However, in the elevator scene, he appears to be taking advantage of the silence to possibly make a move on Summer, indicating a sense of opportunity in being alone.",
+        "expected_answer": "Tom thinks that loneliness is 'underrated' and that he is 'good on his own, comfortable, un-hassled'.",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.7,
+        "reason": "Tom's attitude towards being alone is complex, initially uncomfortable but later seen as an opportunity for connection or personal growth."
+    },
+    {
+        "question": "What is the turning point for Tom's feelings towards Summer?",
+        "rag_answer": "Tom's feelings towards Summer start to change when he sees her talking to \"Expectations\" on the roof, and they seem to be having a serious conversation. This realization makes him stop in his tracks, indicating a turning point in his perception of Summer's intentions.",
+        "expected_answer": "The turning point for Tom's feelings towards Summer is when she says 'it was good' in response to his question about her weekend, which he interprets as a sign that she is not interested in him.",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.7,
+        "reason": "The answer captures the essence of the turning point, but doesn't mention the exact conversation or the specific moment when Tom's feelings change. It accurately identifies the event that triggers the change in Tom's perception of Summer's intentions."
+    },
+    {
+        "question": "What is Summer's view on love?",
+        "rag_answer": "Summer doesn't actually believe in love, and she thinks it's just a myth. She's been in relationships before and hasn't seen it, and she's also read an article that says most marriages end in divorce, like her parents'.",
+        "expected_answer": "Summer believes that love is a fantasy and doesn't exist.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Summer expresses skepticism about love, citing her past experiences and the high divorce rate, indicating she doesn't believe in its existence."
+    },
+    {
+        "question": "What does Tom think about Summer's view on love?",
+        "rag_answer": "Tom doesn't process Summer's view on love at first, but then he stops in his tracks, realizing its significance. He plans to tell her about it, but Summer sees him and he rushes past her before she can stop him.",
+        "expected_answer": "Tom thinks Summer is wrong and believes in love.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The retrieved context does not support the expected answer. Tom's thoughts and actions suggest he is unsure about love, not that he thinks Summer is wrong and believes in love."
+    },
+    {
+        "question": "What song can't Tom and Summer remember?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "The 'Knight Rider' theme song.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention the song that Tom and Summer can't remember, but rather a song that Summer sings along to and Tom plays on his computer, which is a cheesy love song, not the 'Knight Rider' theme song."
+    },
+    {
+        "question": "What is McKenzie's behavior like when he's drunk?",
+        "rag_answer": "When McKenzie is drunk, he becomes aggressive and starts singing patriotically, almost to the point of crying. He also gets loud and argumentative, as seen when he's talking to Tom about going to The Mill for karaoke. Additionally, he has a history of getting out of control, throwing up on stage, trying to fight the bartender, and making threats, as Tom mentions.",
+        "expected_answer": "McKenzie becomes aggressive and starts singing loudly when he's drunk.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "McKenzie becomes aggressive, loud, and gets out of control when drunk, which is supported by the context."
+    },
+    {
+        "question": "What does McKenzie reveal to Summer about Tom's feelings?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "McKenzie tells Summer that Tom likes her, not just as a friend.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "McKenzie does not reveal anything to Summer about Tom's feelings in the provided context."
+    },
+    {
+        "question": "How does Tom respond when Summer asks if he likes her?",
+        "rag_answer": "Tom doesn't directly respond to Summer's question about if he likes her. However, earlier in the conversation, Tom says \"I thought I loved her. Now I don’t know\" which implies that he is unsure about his feelings.",
+        "expected_answer": "Tom says he likes her, but only as a friend, to hide his true feelings.",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.7,
+        "reason": "Tom doesn't directly respond to Summer's question, but his earlier statement implies uncertainty about his feelings, and his later actions suggest he has strong feelings for her, but he tries to hide them by saying he only likes her as a friend."
+    },
+    {
+        "question": "What is Summer looking for at the IKEA store?",
+        "rag_answer": "Summer is looking for trivets at the IKEA store.",
+        "expected_answer": "Summer is looking for trivets.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a bit shorter than the expected answer."
+    },
+    {
+        "question": "What is the nature of Tom and Summer's relationship, according to Summer?",
+        "rag_answer": "Summer's face is unreadable when Tom asks if she'll never want \"that\" (implying marriage or intimacy), but she then changes the subject and says \"Hi.\" This suggests that Summer is not willing to discuss the nature of their relationship, or she is avoiding the topic.",
+        "expected_answer": "Summer wants to keep their relationship casual, with no pressure, labels, or obligations.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "Summer's unreadable face and change of subject when discussing intimacy or marriage suggests she wants to keep their relationship casual with no pressure, labels, or obligations."
+    },
+    {
+        "question": "How does Tom feel about Summer's desire for a casual relationship?",
+        "rag_answer": "Tom is visibly disappointed by Summer's desire for a casual relationship, and he tries to hide it. He also wishes she would let him in and be more open with him.",
+        "expected_answer": "Tom is visibly disappointed but tries to hide it.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer accurately captures Tom's emotions and thoughts regarding Summer's desire for a casual relationship, with only minor details missing."
+    },
+    {
+        "question": "What song is playing when Tom and Summer are together in Tom's bedroom?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "'You Make My Dreams Come True' by Hall and Oates.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The provided context does not mention the song playing when Tom and Summer are together in Tom's bedroom."
+    },
+    {
+        "question": "How does Tom feel the morning after being with Summer?",
+        "rag_answer": "He's sleeping like a baby, probably the best sleep he's had in a long while.",
+        "expected_answer": "Tom feels great, like he's on top of the world, and is celebrated by everyone around him.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The answer does not match the expected answer in terms of meaning, and the retrieved context does not support the expected answer."
+    },
+    {
+        "question": "What happens when Tom walks down the street the morning after being with Summer?",
+        "rag_answer": "Tom walks by himself, unshaven and un-showered, and gets to his favorite intersection where he sees Summer walking towards him, but it's not her after all. He breathes a sigh of relief and continues walking, passing an electronics store where he thinks he sees Summer on all the TVs.",
+        "expected_answer": "People wave, clap, and give him thumbs up, and a parade forms behind him.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the context, addresses the question, and has the same meaning as the expected answer, but lacks minor details about the people waving, clapping, and giving thumbs up."
+    },
+    {
+        "question": "What is Tom's state like when he arrives at the office?",
+        "rag_answer": "Tom has been called into the Principal's office, and when he arrives at his office, he is described as looking \"very unkept, unshaven, and unwell.\"",
+        "expected_answer": "Tom looks unkept, unshaven, and unwell.",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The answer is supported by the retrieved context and addresses the question, but it's a slight paraphrase of the original description."
+    },
+    {
+        "question": "What is Tom waiting for at the office?",
+        "rag_answer": "Tom is waiting for a job interview, specifically for a position at Allen, Prince, and Gethers Architecture.",
+        "expected_answer": "Tom is waiting for a message from Summer.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "The answer 'Tom is waiting for a job interview' does not match the expected answer 'Tom is waiting for a message from Summer'."
+    },
+    {
+        "question": "What does McKenzie suggest Tom should do to get over Summer?",
+        "rag_answer": "McKenzie suggests that Tom should write a book about Summer, turning her into literature, as per the advice of Henry Miller.",
+        "expected_answer": "McKenzie suggests Tom should write a book, quoting Henry Miller.",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "McKenzie suggests Tom should write a book about Summer, quoting Henry Miller's advice to turn her into literature."
+    }
+]

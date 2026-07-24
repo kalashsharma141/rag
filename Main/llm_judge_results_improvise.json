@@ -1,0 +1,200 @@
+[
+    {
+        "question": "What is the name of the boy in the story?",
+        "rag_answer": "Tom.",
+        "expected_answer": "Tom Hansen",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 0.9,
+        "reason": "The RAG system provided a partial name 'Tom' which is supported by the retrieved context and has the same semantic meaning as the expected answer 'Tom Hansen'."
+    },
+    {
+        "question": "Where is Tom from?",
+        "rag_answer": "Tom is from New Jersey, but he lived there until he was 12.",
+        "expected_answer": "Margate, New Jersey",
+        "faithfulness": 0.8,
+        "relevancy": 1.0,
+        "correctness": 0.8,
+        "reason": "The RAG system provides a partially correct answer, stating Tom is from New Jersey, but lacks the specific detail of Margate."
+    },
+    {
+        "question": "What is the name of the girl in the story?",
+        "rag_answer": "The name of the girl in the story is Summer.",
+        "expected_answer": "Summer Finn",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG system correctly identifies the girl in the story as Summer, which matches the expected answer Summer Finn."
+    },
+    {
+        "question": "Where is Summer from?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "Shinnecock, Michigan",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "No answer provided by the RAG system."
+    },
+    {
+        "question": "What does Tom believe in?",
+        "rag_answer": "Tom believes in the idea that everything people believe in, such as destiny, soulmates, and true love, is \"complete and utter bullshit.\"",
+        "expected_answer": "True love",
+        "faithfulness": 0.8,
+        "relevancy": 0.9,
+        "correctness": 0.8,
+        "reason": "The RAG answer is mostly faithful to the context, relevant to the question, and correct in meaning, but has some minor discrepancies with the expected answer."
+    },
+    {
+        "question": "What is Summer's attitude towards love?",
+        "rag_answer": "Summer is skeptical about love, having been in relationships before and seeing most marriages end in divorce. She believes that relationships are messy and feelings get hurt, and thinks that they should focus on having fun and leaving the serious stuff for later.",
+        "expected_answer": "She does not believe in it",
+        "faithfulness": 0.9,
+        "relevancy": 0.9,
+        "correctness": 0.9,
+        "reason": "The RAG answer accurately captures Summer's attitude towards love, as supported by the retrieved context."
+    },
+    {
+        "question": "What is Tom's occupation?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "He works at a greeting card company",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "No answer provided by the RAG system."
+    },
+    {
+        "question": "What is Summer's job?",
+        "rag_answer": "Summer works as a dipper at a busy old timey campus creamery, and also takes messages and works in a cubicle, suggesting she may have a part-time or administrative job.",
+        "expected_answer": "She is an assistant to Mr. Vance",
+        "faithfulness": 0.8,
+        "relevancy": 1.0,
+        "correctness": 0.0,
+        "reason": "The RAG answer provides a job description, but it does not match the expected answer."
+    },
+    {
+        "question": "How does Tom meet Summer?",
+        "rag_answer": "Tom meets Summer on June the 8th. He knows almost immediately that she's who he's been searching for.",
+        "expected_answer": "At work, when Summer is introduced as the new assistant",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "No answer provided by the RAG system."
+    },
+    {
+        "question": "What is the date when Tom meets Summer?",
+        "rag_answer": "Tom meets Summer on June the 8th.",
+        "expected_answer": "June 8th",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer matches the expected answer, providing the correct date when Tom meets Summer."
+    },
+    {
+        "question": "What is the name of Tom's half-sister?",
+        "rag_answer": "Rachel is Tom's 12-year-old half-sister.",
+        "expected_answer": "Rachel",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG system correctly identifies Rachel as Tom's half-sister."
+    },
+    {
+        "question": "Why does Summer want to stop seeing Tom?",
+        "rag_answer": "No information available in the provided context.",
+        "expected_answer": "She thinks their relationship is not normal and they only argue",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "No answer provided by the RAG system."
+    },
+    {
+        "question": "What is the name of the song quoted by Summer in her high school yearbook?",
+        "rag_answer": "A song by the Scottish band Belle & Sebastian was quoted by Summer in her high school yearbook.",
+        "expected_answer": "A song by the Scottish band Belle & Sebastian",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer accurately quotes the song information from the retrieved context."
+    },
+    {
+        "question": "What is the name of the album by Belle & Sebastian that experiences a spike in sales in Michigan?",
+        "rag_answer": "\"The Boy With the Arab Strap\" by Belle & Sebastian experiences a spike in sales in Michigan.",
+        "expected_answer": "The Boy With the Arab Strap",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer accurately identifies the album by Belle & Sebastian with a spike in sales in Michigan."
+    },
+    {
+        "question": "Where does Summer work during her sophomore year of college?",
+        "rag_answer": "Summer works at Two Cents Plain, an old-timey campus creamery, during her sophomore year of college.",
+        "expected_answer": "At Two Cents Plain, an old timey campus creamery",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer accurately reflects the information provided in the retrieved context."
+    },
+    {
+        "question": "What is the percentage increase in revenue at Two Cents Plain when Summer works there?",
+        "rag_answer": "The revenue at Two Cents Plain increased by 212% when Summer worked there.",
+        "expected_answer": "212%",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG system provided the correct answer, which is supported by the retrieved context."
+    },
+    {
+        "question": "What is the average rate below market value that Summer pays for her apartments?",
+        "rag_answer": "Every apartment Summer rented was offered at an average rate of 9.2% below market value.",
+        "expected_answer": "9.2%",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG system provided the correct answer, 9.2%, which is supported by the retrieved context."
+    },
+    {
+        "question": "How many double-takes does Summer average on her commute to work?",
+        "rag_answer": "Summer averages 18.4 double-takes per day on her round-trip commute to work.",
+        "expected_answer": "18.4",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG system provided a correct answer supported by the retrieved context."
+    },
+    {
+        "question": "What is the name of the holiday idea presented by McKenzie?",
+        "rag_answer": "Other Mother's Day.",
+        "expected_answer": "Other Mother's Day",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer matches the expected answer 'Other Mother's Day'."
+    },
+    {
+        "question": "What is the name of the head of the department where Tom works?",
+        "rag_answer": "Mr. Vance is the head of the department where Tom works.",
+        "expected_answer": "Vance",
+        "faithfulness": 0.9,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer accurately identifies Mr. Vance as the head of the department where Tom works, as supported by the retrieved context."
+    },
+    {
+        "question": "What is Tom's initial impression of Summer?",
+        "rag_answer": "Tom's initial impression of Summer is not explicitly stated in the retrieved context. However, it can be inferred that he is surprised and possibly intimidated by her party and friends, as indicated by the line \"Tom has never seen before in his life. Summer's friends, without him.\"",
+        "expected_answer": "Tom thinks Summer is pretty, but also believes she might be an 'uppity, better than everyone, superskank' based on what McKenzie tells him.",
+        "faithfulness": 0.0,
+        "relevancy": 0.0,
+        "correctness": 0.0,
+        "reason": "No answer provided by the RAG system."
+    },
+    {
+        "question": "What music does Summer like?",
+        "rag_answer": "Summer likes The Smiths.",
+        "expected_answer": "Summer likes The Smiths.",
+        "faithfulness": 1.0,
+        "relevancy": 1.0,
+        "correctness": 1.0,
+        "reason": "The RAG answer is fully supported by the retrieved context, which states that Summer likes The Smiths."
+    }
+]
