@@ -1,0 +1,298 @@
+Chatbot ready. Type quit to exit.
+
+Rewritten Query: who is tom
+
+Assistant: Tom is a person with a big interest in architecture.
+
+Rewritten Query: What does Tom do
+
+Assistant: Tom gets up and walks to the door.
+
+Rewritten Query: Where is Tom from
+
+Assistant: New Jersey.
+
+Rewritten Query: What does Tom believe in?
+
+Assistant: Destiny, soulmates, true love.
+
+Rewritten Query: Did those beliefs change for him?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Who is Summer
+
+Assistant: Summer Finn was a woman.
+
+Rewritten Query: Where is she from?
+
+Assistant: Atherton, near Stanford.
+
+Rewritten Query: What does Summer Finn think about love.
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Did Tom agree with Summer Finn?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: how did they meet
+
+Assistant: They met on June 8th, but the exact circumstances of their meeting are not specified in the provided context. However, it is mentioned that Tom was "pretty sure" he had met Summer before, but it is not clear if this was their first meeting or if they had met previously.
+
+Rewritten Query: what happened after they met
+
+Assistant: After they met, Tom was "pretty sure" he had met Summer before, but it is not clear if this was their first meeting or if they had met previously. Summer then sees Tom and puts it all together, realizing who he is. However, Tom races past her before she can stop him.
+
+Rewritten Query: Did they start dating after they met?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Why did they break up?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Did they ever meet again.
+
+Assistant: Yes, they met again.
+
+Rewritten Query: What was the outcome of that meeting?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Who is Rachel?
+
+Assistant: Tom's 12-year-old half-sister.
+
+Rewritten Query: what relation is she to tom
+
+Assistant: Tom's 12-year-old half-sister.
+
+Rewritten Query: What relation is she to Tom
+
+Assistant: Summer is Tom's sister.
+
+Rewritten Query: Who is Summer?
+
+Assistant: Summer is Tom's sister.
+
+Rewritten Query: What is Rachel's relation to Tom?
+
+Assistant: Tom's 12-year-old half-sister.
+
+Rewritten Query: Did Rachel give Tom any advice?
+
+Assistant: Yes, Rachel gave Tom advice. She told him to ask Summer about her feelings, and warned him that if he didn't, he might find out something he didn't want to know, like her being in bed with someone else.
+
+Rewritten Query: Who is Summer?
+
+Assistant: Summer is Tom's sister.
+
+Rewritten Query: Is Summer Tom's sister?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What is Summer to Rachel?
+
+Assistant: Summer is Tom's sister.
+
+Rewritten Query: Who was Tom in love with.
+
+Assistant: Summer.
+
+Rewritten Query: Then how come Summer is Tom's sister?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Was Summer in love with Tom?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What kind of relationship did Tom and Summer have?
+
+Assistant: They had a romantic relationship.
+
+Rewritten Query: What kind of relationship did they have?
+
+Assistant: They had a romantic relationship.
+
+Rewritten Query: Was their relationship serious?
+
+Assistant: They had a romantic relationship.
+
+Rewritten Query: Did she want a serious relationship?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Did she want a long-term commitment?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What did he want?
+
+Assistant: Yes.
+
+Rewritten Query: When did Tom meet Summer?
+
+Assistant: June 8th.
+
+Rewritten Query: When did Tom meet Summer?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What happened next?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What happened after that?
+
+Assistant: Tom stands up to go, and Summer looks at him with an innocent expression.
+
+Rewritten Query: How did the story end?
+
+Assistant: Tom's world was erased, and he was left with nothing.
+
+Rewritten Query: Who is Summer?
+
+Assistant: Summer Finn.
+
+Rewritten Query: Who is Tom?
+
+Assistant: Tom is the main character.
+
+Rewritten Query: What is Tom's full name?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Who is Thomas?
+
+Assistant: Tom.
+
+Rewritten Query: Did she ever hurt him?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Did he forgive her?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What song was playing in the elevator?
+
+Assistant: "The Smiths. heavenly way to die."
+
+Rewritten Query: Who sang "The Smiths. heavenly way to die"?
+
+Assistant: The Smiths.
+
+Rewritten Query: Did Summer like The Smiths?
+
+Assistant: Yes. She said "I love The Smiths."
+
+Rewritten Query: What was her favourite Beatle?
+
+Assistant: Ringo.
+
+Rewritten Query: Who mentioned Ringo?
+
+Assistant: Summer and Tom.
+
+Rewritten Query: Who was Paul's best friend?
+
+Assistant: Tom.
+
+Rewritten Query: Who was McKenzie?
+
+Assistant: Tom's co-worker who works in the cubicle next to him.
+
+Rewritten Query: Who was Tom's co-worker who works in the cubicle next to him?
+
+Assistant: Tom's co-worker who sits next to McKenzie.
+
+Rewritten Query: Who is Tom?
+
+Assistant: Tom.
+
+Rewritten Query: What job does Tom have?
+
+Assistant: Writing greeting cards.
+
+Rewritten Query: What job did he really want to become?
+
+Assistant: An architect.
+
+Rewritten Query: What is Tom's phone number?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What is Summer's birthday?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What was Tom's GPA?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What was Tom's grade point average?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What was Tom's grade point average?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Who is Summer?
+
+Assistant: Summer Finn was a woman.
+
+Rewritten Query: Who is Rachel?
+
+Assistant: Rachel is Tom's 12-year-old half-sister.
+
+Rewritten Query: Who is older between Tom and Rachel?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Who does she do?
+
+Assistant: She starts to sing.
+
+Rewritten Query: What does Summer think about love?
+
+Assistant: Summer thinks there's no such thing as "love." It's a fantasy.
+
+Rewritten Query: Who is Tom?
+
+Assistant: Tom is the main character.
+
+Rewritten Query: Who does Tom like?
+
+Assistant: The girl who was at the game with McKenzie.
+
+Rewritten Query: What is the reason?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Did it work out?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: What is the purpose of this interaction?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Why was no information available in the provided context?
+
+Assistant: Because I can take it.
+
+Rewritten Query: Was the girl who was at the game with McKenzie right?
+
+Assistant: No information available in the provided context.
+
+Rewritten Query: Would you say he learned something?
+
+Assistant: Yes.
+
+Rewritten Query: What did it work out to?
+
+Assistant: No information available in the provided context.
+Bye!
